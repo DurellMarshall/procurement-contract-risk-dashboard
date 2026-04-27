@@ -1,0 +1,6 @@
+Contract_ID,Vendor,Contract_Category,Contract_Start_Date,Contract_End_Date,Auto_Renewal_Status,Contract_Status,District_ID,District_Name,BOCES_Region
+CT-88000357,Jamf,MDM,2026-02-11,2027-02-05,No,Active,2118,Capital_CSD_2118,Capital Region BOCES
+CT-88000358,Veeam,Infrastructure,2026-02-05,2029-01-27,No,Active,2115,Questar_CSD_2115,Questar III BOCES
+CT-88000359,Dell,Endpoint,2026-02-09,2028-01-29,Yes,Active,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+CT-88000360,Fortinet,Security,2026-02-01,2030-01-22,Yes,Active,2101,Southern_CSD_2101,Southern Westchester BOCES
+CT-88000361,Jamf,MDM,2026-02-10,2029-01-30,No,Active,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES

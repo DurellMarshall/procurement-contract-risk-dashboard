@@ -1,0 +1,116 @@
+PO_ID,Line_Number,Item_Class,Item_Family,ItemType,Manufacturer,Item_Family_Name,Quantity,Unit_MSRP,Unit_Negotiated,Total_Spend,Total_Savings,Warranty_Years,Warranty_End_Date_Line,Term_Months,Subscription_End_Date,Contract_ID,School_ID,School_Name,District_ID,District_Name,BOCES_Region
+91000673,1,License,Infrastructure,Veeam Backup & Replication,Veeam,VEEAM-VUL,1,1.05,1.05,1.05,0.00,,,36.0,2029-02-07,CT-88000037,,,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000673,2,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,1550,1.00,1.00,1556.61,0.00,,,12.0,2027-02-07,CT-88000357,,,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000674,1,Hardware,Endpoint,Laptop,HP,Latitude 5440,167,1946.92,1268.16,211783.32,113352.25,4.0,2030-02-17,,,CT-88000262,5170.0,Ridge Middle School,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000674,2,Hardware,Security,Firewall,Fortinet,FortiGate 200F,3,4169.79,2932.45,8797.36,3712.03,3.0,2029-02-17,,,CT-88000360,5171.0,East High School,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000674,3,Hardware,Printing,Printer,HP,LaserJet Pro M404dn,15,605.14,512.48,7687.18,1389.99,3.0,2029-02-17,,,CT-88000262,5171.0,East High School,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000674,4,Hardware,Telephony,VoIP Phone,Cisco,Cisco 8841,69,1910.06,1423.45,98218.10,33576.38,3.0,2029-02-17,,,CT-88000254,5170.0,Ridge Middle School,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000674,5,Hardware,Telephony,VoIP Phone,Cisco,Cisco 8841,14,3851.77,2811.23,39357.29,14567.55,3.0,2029-02-17,,,CT-88000357,5171.0,East High School,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000675,1,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,1918,1.04,1.04,1990.03,0.00,,,12.0,2027-02-09,CT-88000090,,,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000675,2,License,Telephony,VoIP SIP Trunk,Bandwidth,SIP-TRUNK,1,1.00,1.00,1.00,0.00,,,12.0,2027-02-09,CT-88000359,,,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000675,3,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,2153,1.05,1.05,2253.98,0.00,,,12.0,2027-02-09,CT-88000090,,,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000675,4,Hardware,Printing,Printer,HP,LaserJet Pro M404dn,22,1822.16,1542.35,33931.72,6155.74,3.0,2029-02-09,,,CT-88000097,5127.0,South Elementary School,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000676,1,Hardware,Endpoint,Laptop,Dell,ThinkPad T14 Gen 4,167,443.55,328.89,54924.44,19148.46,4.0,2030-02-11,,,CT-88000360,5136.0,Tech High School,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000676,2,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,2753,1.03,1.03,2842.55,0.00,,,12.0,2027-02-11,CT-88000123,,,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000677,1,Hardware,Networking,Network Switch,Cisco,Catalyst 9200-48P,10,2046.85,1497.17,14971.71,5496.82,5.0,2031-02-02,,,CT-88000078,5123.0,Ridge Middle School,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000677,2,Hardware,Networking,Wireless Access Point,Cisco,Catalyst 9130AX,48,4686.11,4239.16,203479.89,21453.16,5.0,2031-02-02,,,CT-88000078,5123.0,Ridge Middle School,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000677,3,Hardware,Networking,Wireless Access Point,Cisco,Catalyst 9130AX,67,2267.89,1627.71,109056.45,42891.96,5.0,2031-02-02,,,CT-88000078,5123.0,Ridge Middle School,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000678,1,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,3029,1.00,1.00,3029.00,0.00,,,12.0,2027-02-01,CT-88000123,,,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000678,2,Hardware,Networking,Network Switch,Cisco,Catalyst 9200-48P,4,571.31,495.03,1980.12,305.12,5.0,2031-02-01,,,CT-88000122,5134.0,North High School,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000678,3,Hardware,Endpoint,Laptop,Dell,Latitude 5440,131,1493.22,1063.24,139285.01,56326.45,4.0,2030-02-01,,,CT-88000361,5134.0,North High School,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000678,4,License,Telephony,VoIP SIP Trunk,Bandwidth,SIP-TRUNK,1,1.01,1.01,1.01,0.00,,,12.0,2027-02-01,CT-88000126,,,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000678,5,Hardware,Networking,Wireless Access Point,Aruba,Aruba 515,84,5082.90,3369.99,283079.29,143883.93,5.0,2031-02-01,,,CT-88000361,5134.0,North High School,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000679,1,Hardware,Printing,Printer,HP,LaserJet Enterprise M506dn,16,3134.47,2240.40,35846.41,14305.09,3.0,2029-02-25,,,CT-88000240,5166.0,Valley High School,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000679,2,License,Telephony,VoIP SIP Trunk,Bandwidth,SIP-TRUNK,1,1.02,1.02,1.02,0.00,,,12.0,2027-02-25,CT-88000361,,,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000679,3,Hardware,Endpoint,Laptop,Lenovo,Latitude 5440,153,3148.53,2254.16,344886.85,136838.64,4.0,2030-02-25,,,CT-88000241,5166.0,Valley High School,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000679,4,License,Telephony,VoIP SIP Trunk,Bandwidth,SIP-TRUNK,1,1.02,1.02,1.02,0.00,,,12.0,2027-02-25,CT-88000236,,,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000679,5,Hardware,Telephony,VoIP Phone,Poly,Poly VVX 350,55,4813.78,4133.43,227338.86,37418.79,3.0,2029-02-25,,,,5166.0,Valley High School,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000680,1,License,Telephony,VoIP SIP Trunk,Bandwidth,SIP-TRUNK,1,1.01,1.01,1.01,0.00,,,12.0,2027-02-03,CT-88000357,,,2117,Capital_CSD_2117,Capital Region BOCES
+91000680,2,License,Security,CrowdStrike Falcon,CrowdStrike,CS-FALCON,1718,1.04,1.04,1782.70,0.00,,,12.0,2027-02-03,CT-88000359,,,2117,Capital_CSD_2117,Capital Region BOCES
+91000680,3,Hardware,Endpoint,Laptop,Dell,Latitude 5440,143,3333.82,2681.09,383395.20,93340.49,4.0,2030-02-03,,,CT-88000359,5151.0,Central High School,2117,Capital_CSD_2117,Capital Region BOCES
+91000680,4,Hardware,Networking,Wireless Access Point,Aruba,Aruba 515,74,3355.19,2748.89,203417.79,44866.22,5.0,2031-02-03,,,CT-88000360,5149.0,East High School,2117,Capital_CSD_2117,Capital Region BOCES
+91000681,1,Hardware,Infrastructure,Server,Dell,PowerEdge R650,7,4767.29,4050.01,28350.07,5020.97,3.0,2029-02-16,,,CT-88000359,5128.0,East Admin Building,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000681,2,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,1170,1.05,1.05,1226.95,0.00,,,12.0,2027-02-16,CT-88000101,,,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000681,3,Hardware,Networking,Wireless Access Point,Cisco,Catalyst 9130AX,36,3603.22,3193.76,114975.49,14740.26,5.0,2031-02-16,,,CT-88000100,5128.0,East Admin Building,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000681,4,Hardware,Endpoint,Laptop,Dell,EliteBook 840 G9,91,2036.80,1511.77,137571.49,47777.26,4.0,2030-02-16,,,CT-88000107,5130.0,Tech Elementary School,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000682,1,Hardware,Display,Monitor,Dell,P2422H,24,1945.75,1844.96,44279.09,2418.97,3.0,2029-02-23,,,CT-88000361,5119.0,North Elementary School,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000682,2,Hardware,Infrastructure,Server,Dell,PowerEdge R650,5,4115.78,3612.50,18062.50,2516.40,3.0,2029-02-23,,,CT-88000074,5120.0,Central Elementary School,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000683,1,Hardware,Endpoint,Laptop,Lenovo,EliteBook 840 G9,95,2832.27,2220.75,210971.20,58094.53,4.0,2030-02-16,,,CT-88000360,5171.0,East High School,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000683,2,Hardware,Telephony,VoIP Phone,Cisco,Cisco 8841,74,4362.80,3702.59,273992.01,48855.45,3.0,2029-02-16,,,CT-88000361,5171.0,East High School,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000683,3,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,2611,1.05,1.05,2731.17,0.00,,,12.0,2027-02-16,CT-88000255,,,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000683,4,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,2238,1.04,1.04,2323.42,0.00,,,12.0,2027-02-16,CT-88000255,,,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000683,5,Hardware,Networking,Wireless Access Point,Cisco,Catalyst 9130AX,59,4223.97,3774.46,222693.08,26520.95,5.0,2031-02-16,,,CT-88000254,5170.0,Ridge Middle School,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000684,1,Hardware,Infrastructure,Server,Dell,PowerEdge R650,3,201.00,128.00,384.00,219.01,3.0,2029-02-07,,,CT-88000357,5138.0,East High School,2113,Questar_CSD_2113,Questar III BOCES
+91000684,2,Hardware,Networking,Wireless Access Point,Aruba,Aruba 515,113,1956.81,1752.82,198069.09,23050.97,5.0,2031-02-07,,,,5137.0,Ridge Middle School,2113,Questar_CSD_2113,Questar III BOCES
+91000685,1,Hardware,Telephony,VoIP Phone,Poly,Poly VVX 350,30,1323.35,1029.79,30893.74,8806.87,3.0,2029-02-05,,,,5143.0,North Middle School,2115,Questar_CSD_2115,Questar III BOCES
+91000685,2,Hardware,Telephony,VoIP Phone,Poly,Poly VVX 350,61,1049.24,744.16,45393.59,18610.10,3.0,2029-02-05,,,CT-88000360,5144.0,South Elementary School,2115,Questar_CSD_2115,Questar III BOCES
+91000685,3,License,Networking,Cisco Meraki License (AP),Cisco,MR-ENT,146,1.04,1.04,152.15,0.00,,,36.0,2029-02-05,CT-88000361,,,2115,Questar_CSD_2115,Questar III BOCES
+91000685,4,Hardware,Networking,Wireless Access Point,Aruba,Aruba 515,117,3973.47,3498.69,409346.79,55548.97,5.0,2031-02-05,,,,5143.0,North Middle School,2115,Questar_CSD_2115,Questar III BOCES
+91000685,5,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,1486,1.00,1.00,1486.00,0.00,,,12.0,2027-02-05,CT-88000360,,,2115,Questar_CSD_2115,Questar III BOCES
+91000686,1,License,Networking,Cisco Meraki License (AP),Cisco,MR-ENT,152,1.00,1.00,152.63,0.00,,,36.0,2029-02-16,CT-88000361,,,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000686,2,Hardware,Display,Monitor,Dell,P2422H,55,5242.17,4369.02,240295.93,48023.39,3.0,2029-02-16,,,CT-88000096,5126.0,Central Elementary School,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000686,3,Hardware,Endpoint,Laptop,HP,ThinkPad T14 Gen 4,102,1950.87,1753.79,178886.21,20102.87,4.0,2030-02-16,,,CT-88000097,5127.0,South Elementary School,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000687,1,Hardware,Endpoint,Laptop,Lenovo,EliteBook 840 G9,144,1332.20,913.17,131496.84,60339.48,4.0,2030-02-23,,,CT-88000142,5139.0,South Elementary School,2113,Questar_CSD_2113,Questar III BOCES
+91000687,2,Hardware,Networking,Network Switch,Cisco,Catalyst 9200-48P,8,3866.93,3129.74,25037.96,5897.50,5.0,2031-02-23,,,CT-88000358,5137.0,Ridge Middle School,2113,Questar_CSD_2113,Questar III BOCES
+91000687,3,Hardware,Endpoint,Laptop,Lenovo,Latitude 5440,25,1029.86,812.16,20304.02,5442.42,4.0,2030-02-23,,,CT-88000142,5139.0,South Elementary School,2113,Questar_CSD_2113,Questar III BOCES
+91000687,4,Hardware,Telephony,VoIP Phone,Cisco,Cisco 8841,80,4745.52,4140.91,331272.84,48368.40,3.0,2029-02-23,,,CT-88000133,5137.0,Ridge Middle School,2113,Questar_CSD_2113,Questar III BOCES
+91000688,1,Hardware,Endpoint,Laptop,Lenovo,EliteBook 840 G9,152,1720.98,1168.33,177585.91,84003.27,4.0,2030-02-23,,,CT-88000360,5165.0,Ridge Middle School,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000688,2,Hardware,Telephony,VoIP Phone,Poly,Poly VVX 350,35,5248.58,4542.01,158970.43,24729.78,3.0,2029-02-23,,,CT-88000358,5164.0,Ridge Admin Building,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000688,3,Hardware,Endpoint,Laptop,Lenovo,EliteBook 840 G9,28,2616.34,1879.43,52624.05,20633.42,4.0,2030-02-23,,,CT-88000241,5164.0,Ridge Admin Building,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000689,1,License,Telephony,VoIP SIP Trunk,Bandwidth,SIP-TRUNK,1,1.02,1.02,1.02,0.00,,,12.0,2027-02-26,CT-88000170,,,2116,Questar_CSD_2116,Questar III BOCES
+91000689,2,Hardware,Networking,Wireless Access Point,Cisco,Catalyst 9130AX,113,741.37,676.82,76480.32,7293.94,5.0,2031-02-26,,,CT-88000166,5148.0,STEM Admin Building,2116,Questar_CSD_2116,Questar III BOCES
+91000690,1,Hardware,Endpoint,Laptop,HP,Latitude 5440,141,1637.66,1182.37,166714.11,64196.06,4.0,2030-02-03,,,CT-88000130,5136.0,Tech High School,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000690,2,License,Networking,Cisco Meraki License (AP),Cisco,MR-ENT,350,1.04,1.04,362.72,0.00,,,36.0,2029-02-03,CT-88000357,,,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000690,3,Hardware,Endpoint,Laptop,Dell,Latitude 5440,72,3111.30,2166.64,155998.30,68015.44,4.0,2030-02-03,,,CT-88000358,5134.0,North High School,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000690,4,License,MDM,Jamf School,Jamf,JAMF-SCH,348,1.00,1.00,348.35,0.00,,,12.0,2027-02-03,CT-88000359,,,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000690,5,License,MDM,Jamf School,Jamf,JAMF-SCH,354,1.01,1.01,357.40,0.00,,,12.0,2027-02-03,CT-88000361,,,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000691,1,Hardware,Endpoint,Laptop,Dell,EliteBook 840 G9,38,4566.46,3405.75,129418.44,44107.21,4.0,2030-02-01,,,CT-88000052,5114.0,East Elementary School,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000691,2,Hardware,Security,Firewall,Fortinet,FortiGate 200F,1,2810.74,2683.74,2683.74,127.00,3.0,2029-02-01,,,CT-88000051,5113.0,Central Tech Center,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000692,1,Hardware,Networking,Network Switch,Cisco,Catalyst 9200-48P,10,507.95,344.00,3439.97,1639.52,5.0,2031-02-09,,,CT-88000045,5113.0,Central Tech Center,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000692,2,License,MDM,Jamf School,Jamf,JAMF-SCH,109,1.00,1.00,109.23,0.00,,,12.0,2027-02-09,CT-88000359,,,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000692,3,Hardware,Telephony,VoIP Phone,Cisco,Cisco 8841,64,345.30,297.57,19044.23,3055.14,3.0,2029-02-09,,,CT-88000045,5115.0,STEM Admin Building,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000693,1,Hardware,Display,Monitor,Dell,U2722D,41,4804.26,4241.77,173912.74,23062.06,3.0,2029-02-16,,,CT-88000357,5114.0,East Elementary School,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000693,2,Hardware,Networking,Wireless Access Point,Aruba,Aruba 515,58,3312.17,2731.88,158448.79,33657.15,5.0,2031-02-16,,,CT-88000361,5114.0,East Elementary School,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000693,3,Hardware,Security,Firewall,Fortinet,FortiGate 100F,2,1380.53,1203.82,2407.63,353.43,3.0,2029-02-16,,,CT-88000359,5114.0,East Elementary School,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000693,4,Hardware,Printing,Printer,HP,LaserJet Pro M404dn,18,1519.63,1299.31,23387.50,3965.88,3.0,2029-02-16,,,CT-88000053,5115.0,STEM Admin Building,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000693,5,Hardware,Endpoint,Laptop,Dell,EliteBook 840 G9,100,3171.26,2129.18,212918.31,104207.95,4.0,2030-02-16,,,CT-88000052,5114.0,East Elementary School,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000694,1,Hardware,Telephony,VoIP Phone,Cisco,Cisco 8841,69,3054.37,2164.11,149323.77,61427.49,3.0,2029-02-12,,,CT-88000188,5154.0,West Elementary School,2118,Capital_CSD_2118,Capital Region BOCES
+91000694,2,Hardware,Printing,Printer,HP,LaserJet Pro M404dn,4,2662.52,2293.61,9174.46,1475.62,3.0,2029-02-12,,,CT-88000196,5154.0,West Elementary School,2118,Capital_CSD_2118,Capital Region BOCES
+91000694,3,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,1595,1.00,1.00,1595.00,0.00,,,12.0,2027-02-12,CT-88000189,,,2118,Capital_CSD_2118,Capital Region BOCES
+91000694,4,License,MDM,Jamf School,Jamf,JAMF-SCH,195,1.01,1.01,197.37,0.00,,,12.0,2027-02-12,CT-88000357,,,2118,Capital_CSD_2118,Capital Region BOCES
+91000695,1,Hardware,Endpoint,Laptop,Lenovo,ThinkPad T14 Gen 4,50,3337.66,2846.67,142333.63,24549.53,4.0,2030-02-11,,,CT-88000359,5160.0,West Elementary School,2120,Capital_CSD_2120,Capital Region BOCES
+91000695,2,Hardware,Printing,Printer,HP,LaserJet Enterprise M506dn,10,831.34,688.87,6888.75,1424.61,3.0,2029-02-11,,,CT-88000218,5160.0,West Elementary School,2120,Capital_CSD_2120,Capital Region BOCES
+91000696,1,Hardware,Telephony,VoIP Phone,Poly,Poly VVX 350,95,1957.07,1406.87,133653.12,52268.68,3.0,2029-02-21,,,CT-88000361,5146.0,North Middle School,2116,Questar_CSD_2116,Questar III BOCES
+91000696,2,Hardware,Networking,Wireless Access Point,Cisco,Catalyst 9130AX,41,2908.30,2234.59,91618.01,27622.37,5.0,2031-02-21,,,CT-88000166,5146.0,North Middle School,2116,Questar_CSD_2116,Questar III BOCES
+91000696,3,Hardware,Telephony,VoIP Phone,Poly,Poly VVX 350,62,3052.67,2245.70,139233.59,50032.24,3.0,2029-02-21,,,,5146.0,North Middle School,2116,Questar_CSD_2116,Questar III BOCES
+91000696,4,Hardware,Infrastructure,Server,HPE,ProLiant DL380 Gen10,2,362.40,312.07,624.14,100.67,3.0,2029-02-21,,,CT-88000176,5148.0,STEM Admin Building,2116,Questar_CSD_2116,Questar III BOCES
+91000696,5,Hardware,Networking,Wireless Access Point,Cisco,Catalyst 9130AX,79,2942.46,2504.35,197843.81,34610.47,5.0,2031-02-21,,,CT-88000166,5146.0,North Middle School,2116,Questar_CSD_2116,Questar III BOCES
+91000697,1,Hardware,Networking,Wireless Access Point,Cisco,Catalyst 9130AX,65,1512.20,1074.11,69816.94,28476.04,5.0,2031-02-18,,,CT-88000254,5170.0,Ridge Middle School,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000697,2,License,MDM,Jamf School,Jamf,JAMF-SCH,244,1.03,1.03,252.37,0.00,,,12.0,2027-02-18,CT-88000259,,,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000697,3,Hardware,Security,Firewall,Fortinet,FortiGate 100F,1,2480.75,2205.05,2205.05,275.70,3.0,2029-02-18,,,CT-88000360,5170.0,Ridge Middle School,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000697,4,License,Telephony,VoIP SIP Trunk,Bandwidth,SIP-TRUNK,1,1.05,1.05,1.05,0.00,,,12.0,2027-02-18,CT-88000359,,,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000697,5,Hardware,Endpoint,Laptop,Lenovo,Latitude 5440,161,633.64,416.63,67078.15,34938.64,4.0,2030-02-18,,,CT-88000263,5170.0,Ridge Middle School,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000698,1,Hardware,Telephony,VoIP Phone,Poly,Poly VVX 350,86,4216.30,3228.35,277638.05,84963.82,3.0,2029-02-28,,,,5163.0,Central High School,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000698,2,License,Security,CrowdStrike Falcon,CrowdStrike,CS-FALCON,1488,1.04,1.04,1543.48,0.00,,,12.0,2027-02-28,CT-88000223,,,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000698,3,Hardware,Endpoint,Laptop,Dell,ThinkPad T14 Gen 4,82,1591.23,1234.72,101247.25,29233.25,4.0,2030-02-28,,,CT-88000358,5163.0,Central High School,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000699,1,License,Security,CrowdStrike Falcon,CrowdStrike,CS-FALCON,1208,1.03,1.03,1240.90,0.00,,,12.0,2027-02-17,CT-88000289,,,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000699,2,Hardware,Endpoint,Laptop,HP,EliteBook 840 G9,76,736.58,631.04,47959.15,8020.74,4.0,2030-02-17,,,CT-88000295,5179.0,Central High School,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000699,3,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,1530,1.01,1.01,1544.78,0.00,,,12.0,2027-02-17,CT-88000288,,,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000699,4,Hardware,Telephony,VoIP Phone,Cisco,Cisco 8841,39,5042.87,3810.48,148608.66,48063.35,3.0,2029-02-17,,,CT-88000287,5181.0,Tech Tech Center,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000699,5,Hardware,Display,Monitor,Dell,P2422H,78,2061.64,1598.29,124666.33,36141.34,3.0,2029-02-17,,,CT-88000361,5179.0,Central High School,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000700,1,Hardware,Printing,Printer,HP,LaserJet Pro M404dn,18,1928.69,1624.44,29239.99,5476.39,3.0,2029-02-07,,,CT-88000358,5156.0,Valley Elementary School,2119,Capital_CSD_2119,Capital Region BOCES
+91000700,2,Hardware,Endpoint,Laptop,HP,EliteBook 840 G9,58,4982.55,3791.49,219906.37,69081.46,4.0,2030-02-07,,,CT-88000361,5157.0,Tech Tech Center,2119,Capital_CSD_2119,Capital Region BOCES
+91000701,1,Hardware,Telephony,VoIP Phone,Cisco,Cisco 8841,54,3236.55,2346.07,126688.04,48085.58,3.0,2029-02-17,,,CT-88000287,5180.0,North Admin Building,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000701,2,Hardware,Endpoint,Laptop,Dell,Latitude 5440,31,4619.09,3688.09,114330.79,28860.99,4.0,2030-02-17,,,CT-88000294,5181.0,Tech Tech Center,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000702,1,Hardware,Telephony,VoIP Phone,Cisco,Cisco 8841,44,1508.39,1027.02,45189.00,21180.01,3.0,2029-02-19,,,CT-88000100,5128.0,East Admin Building,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000702,2,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,1255,1.01,1.01,1269.38,0.00,,,12.0,2027-02-19,CT-88000101,,,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000702,3,License,Infrastructure,Veeam Backup & Replication,Veeam,VEEAM-VUL,1,1.00,1.00,1.00,0.00,,,36.0,2029-02-19,CT-88000103,,,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000703,1,License,Productivity,Microsoft 365 A3,Microsoft,M365-A3,2032,1.01,1.01,2054.43,0.00,,,12.0,2027-02-25,CT-88000145,,,2114,Questar_CSD_2114,Questar III BOCES
+91000703,2,Hardware,Endpoint,Laptop,Lenovo,EliteBook 840 G9,187,2854.20,1919.70,358984.06,174751.55,4.0,2030-02-25,,,CT-88000358,5142.0,East Middle School,2114,Questar_CSD_2114,Questar III BOCES
+91000703,3,License,Networking,Cisco Meraki License (AP),Cisco,MR-ENT,149,1.01,1.01,151.16,0.00,,,36.0,2029-02-25,CT-88000144,,,2114,Questar_CSD_2114,Questar III BOCES
+91000703,4,License,Networking,Cisco Meraki License (AP),Cisco,MR-ENT,163,1.00,1.00,163.00,0.00,,,36.0,2029-02-25,CT-88000358,,,2114,Questar_CSD_2114,Questar III BOCES
+91000703,5,Hardware,Networking,Wireless Access Point,Cisco,Catalyst 9130AX,70,2561.39,2015.99,141119.08,38178.48,5.0,2031-02-25,,,CT-88000357,5140.0,Central Elementary School,2114,Questar_CSD_2114,Questar III BOCES
+91000704,1,Hardware,Printing,Printer,HP,LaserJet Enterprise M506dn,17,509.49,411.84,7001.34,1659.93,3.0,2029-02-27,,,CT-88000357,5161.0,STEM High School,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000704,2,Hardware,Endpoint,Laptop,Dell,Latitude 5440,190,3278.90,2199.61,417925.27,205065.44,4.0,2030-02-27,,,CT-88000359,5162.0,Valley Elementary School,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000704,3,Hardware,Infrastructure,Server,Dell,ProLiant DL380 Gen10,5,3051.88,2241.24,11206.22,4053.16,3.0,2029-02-27,,,CT-88000228,5163.0,Central High School,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000704,4,Hardware,Endpoint,Laptop,Dell,ThinkPad T14 Gen 4,60,4313.44,3524.51,211470.71,47335.84,4.0,2030-02-27,,,CT-88000228,5162.0,Valley Elementary School,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES

@@ -1,0 +1,769 @@
+PO_ID,PO_Number,PO_Date,Vendor_Name,Funding_Source,District_ID,District_Name,BOCES_Region
+91000001,PO-396315,2021-01-18,CDW-G,E-Rate,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000002,PO-364497,2021-04-06,Apple Education,Grant,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000003,PO-112484,2021-07-25,Ingram Micro,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000004,PO-152356,2021-10-18,CDW-G,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000005,PO-719582,2022-01-07,SHI,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000006,PO-443943,2022-04-18,CDW-G,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000007,PO-204244,2022-07-11,CDW-G,E-Rate,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000008,PO-930310,2022-10-07,SHI,Grant,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000009,PO-383164,2023-01-20,CDW-G,Federal Program,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000010,PO-202607,2023-04-04,Apple Education,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000011,PO-897973,2023-07-21,Connection,Grant,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000012,PO-446087,2023-10-06,CDW-G,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000013,PO-194284,2024-01-20,SHI,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000014,PO-200642,2024-04-16,SHI,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000015,PO-376101,2024-07-07,Ingram Micro,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000016,PO-320569,2024-10-16,CDW-G,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000017,PO-226442,2025-01-25,CDW-G,E-Rate,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000018,PO-441297,2025-04-20,CDW-G,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000019,PO-990758,2025-07-08,SHI,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000020,PO-306527,2025-10-12,SHI,Grant,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000021,PO-622530,2021-01-02,SHI,E-Rate,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000022,PO-459084,2021-04-14,SHI,Federal Program,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000023,PO-202373,2021-07-13,CDW-G,General Fund,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000024,PO-491597,2021-10-16,CDW-G,Federal Program,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000025,PO-318479,2022-01-02,CDW-G,Grant,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000026,PO-734402,2022-04-23,Ingram Micro,Grant,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000027,PO-568922,2022-07-06,SHI,E-Rate,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000028,PO-148935,2022-10-14,Connection,Federal Program,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000029,PO-919134,2023-01-09,SHI,General Fund,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000030,PO-908505,2023-04-13,Apple Education,General Fund,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000031,PO-789968,2023-07-18,CDW-G,General Fund,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000032,PO-349504,2023-10-07,SHI,Grant,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000033,PO-308483,2024-01-17,SHI,General Fund,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000034,PO-911026,2024-04-22,Connection,General Fund,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000035,PO-518136,2024-07-06,CDW-G,General Fund,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000036,PO-144099,2024-10-25,SHI,General Fund,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000037,PO-591122,2025-01-14,CDW-G,General Fund,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000038,PO-278446,2025-04-20,Connection,Federal Program,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000039,PO-703351,2025-07-08,Connection,General Fund,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000040,PO-769785,2025-10-11,Connection,E-Rate,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000041,PO-422415,2021-01-04,CDW-G,E-Rate,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000042,PO-147127,2021-04-13,SHI,General Fund,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000043,PO-321746,2021-07-03,CDW-G,E-Rate,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000044,PO-688990,2021-10-02,CDW-G,Federal Program,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000045,PO-793035,2022-01-22,CDW-G,General Fund,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000046,PO-998453,2022-04-10,Connection,Federal Program,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000047,PO-820841,2022-07-17,SHI,General Fund,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000048,PO-810561,2022-10-08,CDW-G,E-Rate,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000049,PO-438959,2023-01-09,Ingram Micro,General Fund,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000050,PO-694664,2023-04-17,SHI,General Fund,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000051,PO-599794,2023-07-17,CDW-G,Federal Program,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000052,PO-302273,2023-10-10,SHI,Federal Program,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000053,PO-762888,2024-01-09,CDW-G,Federal Program,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000054,PO-962471,2024-04-24,CDW-G,General Fund,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000055,PO-538646,2024-07-02,Ingram Micro,General Fund,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000056,PO-702746,2024-10-20,SHI,Grant,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000057,PO-980747,2025-01-06,SHI,Federal Program,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000058,PO-956771,2025-04-09,SHI,Grant,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000059,PO-125487,2025-07-03,CDW-G,Grant,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000060,PO-167720,2025-10-03,CDW-G,General Fund,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000061,PO-282380,2021-01-24,SHI,Federal Program,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000062,PO-183651,2021-04-09,CDW-G,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000063,PO-390613,2021-07-19,CDW-G,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000064,PO-316073,2021-10-25,Connection,E-Rate,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000065,PO-479739,2022-01-15,Ingram Micro,Grant,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000066,PO-456567,2022-04-10,SHI,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000067,PO-490419,2022-07-21,CDW-G,Grant,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000068,PO-980556,2022-10-08,CDW-G,E-Rate,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000069,PO-832938,2023-01-04,Ingram Micro,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000070,PO-697177,2023-04-06,Connection,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000071,PO-265960,2023-07-02,SHI,Federal Program,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000072,PO-419337,2023-10-03,Connection,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000073,PO-327019,2024-01-23,Ingram Micro,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000074,PO-526293,2024-04-21,Ingram Micro,E-Rate,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000075,PO-804782,2024-07-21,Ingram Micro,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000076,PO-224433,2024-10-18,Apple Education,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000077,PO-356784,2025-01-12,CDW-G,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000078,PO-735655,2025-04-08,Apple Education,Grant,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000079,PO-360370,2025-07-08,SHI,E-Rate,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000080,PO-581928,2025-10-18,CDW-G,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000081,PO-142963,2021-01-03,CDW-G,E-Rate,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000082,PO-320782,2021-04-12,SHI,E-Rate,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000083,PO-282243,2021-07-24,Apple Education,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000084,PO-843465,2021-10-10,SHI,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000085,PO-749740,2022-01-13,Connection,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000086,PO-235126,2022-04-13,SHI,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000087,PO-354267,2022-07-11,CDW-G,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000088,PO-499997,2022-10-18,Connection,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000089,PO-533643,2023-01-21,SHI,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000090,PO-386347,2023-04-21,CDW-G,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000091,PO-524166,2023-07-21,SHI,E-Rate,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000092,PO-176151,2023-10-15,Apple Education,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000093,PO-462481,2024-01-09,SHI,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000094,PO-273929,2024-04-12,Connection,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000095,PO-763401,2024-07-17,CDW-G,E-Rate,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000096,PO-872425,2024-10-22,CDW-G,E-Rate,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000097,PO-427591,2025-01-01,Connection,Grant,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000098,PO-476986,2025-04-04,SHI,Grant,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000099,PO-404735,2025-07-25,CDW-G,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000100,PO-442026,2025-10-07,SHI,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000101,PO-409717,2021-01-23,Apple Education,E-Rate,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000102,PO-138466,2021-04-06,Ingram Micro,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000103,PO-217540,2021-07-20,CDW-G,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000104,PO-331697,2021-10-22,CDW-G,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000105,PO-663389,2022-01-14,CDW-G,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000106,PO-695157,2022-04-15,SHI,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000107,PO-729848,2022-07-14,SHI,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000108,PO-460539,2022-10-17,Connection,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000109,PO-635690,2023-01-04,CDW-G,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000110,PO-746736,2023-04-03,CDW-G,Federal Program,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000111,PO-253651,2023-07-08,Connection,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000112,PO-902348,2023-10-09,Apple Education,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000113,PO-874433,2024-01-24,SHI,E-Rate,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000114,PO-815637,2024-04-07,Apple Education,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000115,PO-788795,2024-07-07,Connection,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000116,PO-683637,2024-10-02,CDW-G,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000117,PO-524088,2025-01-08,CDW-G,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000118,PO-302673,2025-04-12,CDW-G,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000119,PO-319646,2025-07-18,Ingram Micro,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000120,PO-132844,2025-10-05,SHI,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000121,PO-150396,2021-01-22,CDW-G,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000122,PO-279853,2021-04-12,SHI,Grant,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000123,PO-306266,2021-07-04,Apple Education,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000124,PO-329453,2021-10-14,CDW-G,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000125,PO-987089,2022-01-19,SHI,Grant,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000126,PO-497100,2022-04-08,SHI,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000127,PO-807651,2022-07-12,Connection,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000128,PO-199670,2022-10-08,SHI,Grant,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000129,PO-771708,2023-01-20,Apple Education,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000130,PO-359552,2023-04-03,Connection,Grant,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000131,PO-810169,2023-07-18,Ingram Micro,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000132,PO-207027,2023-10-05,CDW-G,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000133,PO-713715,2024-01-23,CDW-G,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000134,PO-253737,2024-04-05,Connection,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000135,PO-343536,2024-07-01,CDW-G,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000136,PO-924126,2024-10-06,CDW-G,Federal Program,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000137,PO-842754,2025-01-11,Connection,Federal Program,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000138,PO-501793,2025-04-14,CDW-G,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000139,PO-205323,2025-07-20,Apple Education,E-Rate,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000140,PO-652455,2025-10-15,Connection,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000141,PO-673720,2021-01-01,SHI,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000142,PO-879859,2021-04-19,SHI,Federal Program,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000143,PO-319475,2021-07-16,Ingram Micro,Grant,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000144,PO-488663,2021-10-09,Apple Education,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000145,PO-293704,2022-01-02,Connection,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000146,PO-529240,2022-04-12,SHI,E-Rate,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000147,PO-677988,2022-07-02,Connection,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000148,PO-525808,2022-10-03,Connection,E-Rate,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000149,PO-406615,2023-01-08,SHI,Grant,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000150,PO-986205,2023-04-16,CDW-G,Grant,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000151,PO-449984,2023-07-16,Ingram Micro,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000152,PO-291316,2023-10-15,CDW-G,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000153,PO-325528,2024-01-14,CDW-G,E-Rate,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000154,PO-948170,2024-04-24,Connection,E-Rate,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000155,PO-796010,2024-07-03,Ingram Micro,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000156,PO-376096,2024-10-23,CDW-G,E-Rate,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000157,PO-172258,2025-01-02,Ingram Micro,E-Rate,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000158,PO-188168,2025-04-09,CDW-G,Federal Program,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000159,PO-465263,2025-07-24,SHI,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000160,PO-965930,2025-10-05,CDW-G,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000161,PO-228875,2021-01-07,CDW-G,E-Rate,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000162,PO-716453,2021-04-09,CDW-G,General Fund,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000163,PO-933704,2021-07-02,CDW-G,General Fund,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000164,PO-170940,2021-10-16,Ingram Micro,General Fund,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000165,PO-969989,2022-01-01,Connection,General Fund,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000166,PO-322348,2022-04-10,CDW-G,E-Rate,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000167,PO-808480,2022-07-25,CDW-G,Federal Program,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000168,PO-834866,2022-10-02,Connection,General Fund,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000169,PO-822343,2023-01-10,Apple Education,General Fund,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000170,PO-830979,2023-04-01,Ingram Micro,General Fund,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000171,PO-390828,2023-07-20,Ingram Micro,General Fund,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000172,PO-835906,2023-10-16,Apple Education,General Fund,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000173,PO-352114,2024-01-05,SHI,General Fund,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000174,PO-749327,2024-04-14,Ingram Micro,General Fund,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000175,PO-710821,2024-07-22,CDW-G,Federal Program,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000176,PO-456638,2024-10-12,Ingram Micro,E-Rate,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000177,PO-569082,2025-01-04,CDW-G,Grant,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000178,PO-223100,2025-04-10,SHI,E-Rate,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000179,PO-689024,2025-07-08,Apple Education,Grant,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000180,PO-433617,2025-10-05,Ingram Micro,E-Rate,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000181,PO-382020,2021-01-20,Ingram Micro,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000182,PO-518416,2021-04-15,CDW-G,E-Rate,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000183,PO-243397,2021-07-10,CDW-G,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000184,PO-772086,2021-10-05,Connection,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000185,PO-547439,2022-01-02,Ingram Micro,Grant,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000186,PO-608369,2022-04-16,SHI,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000187,PO-365478,2022-07-20,Connection,E-Rate,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000188,PO-256279,2022-10-21,Connection,Grant,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000189,PO-877300,2023-01-06,Connection,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000190,PO-108457,2023-04-24,Connection,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000191,PO-308381,2023-07-21,Apple Education,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000192,PO-722188,2023-10-02,SHI,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000193,PO-402572,2024-01-25,Connection,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000194,PO-690558,2024-04-13,CDW-G,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000195,PO-670707,2024-07-24,SHI,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000196,PO-944144,2024-10-17,SHI,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000197,PO-608404,2025-01-23,CDW-G,General Fund,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000198,PO-562426,2025-04-12,SHI,Federal Program,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000199,PO-909596,2025-07-22,SHI,E-Rate,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000200,PO-110282,2025-10-14,CDW-G,E-Rate,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000201,PO-824576,2021-01-06,SHI,E-Rate,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000202,PO-179257,2021-04-20,Apple Education,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000203,PO-676193,2021-07-06,SHI,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000204,PO-300362,2021-10-15,Connection,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000205,PO-320714,2022-01-02,CDW-G,Federal Program,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000206,PO-623913,2022-04-04,CDW-G,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000207,PO-726546,2022-07-23,Connection,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000208,PO-416984,2022-10-18,Ingram Micro,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000209,PO-637950,2023-01-15,SHI,Grant,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000210,PO-830729,2023-04-21,CDW-G,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000211,PO-375781,2023-07-04,Ingram Micro,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000212,PO-366264,2023-10-21,Connection,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000213,PO-573981,2024-01-05,SHI,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000214,PO-358299,2024-04-19,Connection,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000215,PO-366765,2024-07-25,SHI,E-Rate,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000216,PO-515117,2024-10-19,CDW-G,E-Rate,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000217,PO-530589,2025-01-12,Connection,E-Rate,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000218,PO-376214,2025-04-19,CDW-G,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000219,PO-864273,2025-07-25,CDW-G,General Fund,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000220,PO-884921,2025-10-25,CDW-G,E-Rate,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000221,PO-857377,2021-01-24,CDW-G,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000222,PO-129353,2021-04-06,Apple Education,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000223,PO-566108,2021-07-22,Ingram Micro,Federal Program,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000224,PO-492418,2021-10-09,Connection,Federal Program,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000225,PO-913685,2022-01-03,CDW-G,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000226,PO-138837,2022-04-20,CDW-G,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000227,PO-338404,2022-07-25,SHI,Federal Program,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000228,PO-991455,2022-10-06,CDW-G,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000229,PO-853409,2023-01-14,Ingram Micro,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000230,PO-996453,2023-04-14,SHI,Federal Program,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000231,PO-527524,2023-07-19,Ingram Micro,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000232,PO-208710,2023-10-08,Connection,E-Rate,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000233,PO-330667,2024-01-20,SHI,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000234,PO-427571,2024-04-11,Apple Education,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000235,PO-744863,2024-07-18,SHI,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000236,PO-208757,2024-10-10,CDW-G,Grant,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000237,PO-254462,2025-01-02,Connection,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000238,PO-418121,2025-04-10,SHI,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000239,PO-437493,2025-07-09,CDW-G,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000240,PO-701789,2025-10-07,CDW-G,E-Rate,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000241,PO-280200,2021-01-13,Apple Education,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000242,PO-321809,2021-04-09,Connection,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000243,PO-292981,2021-07-06,CDW-G,Grant,2113,Questar_CSD_2113,Questar III BOCES
+91000244,PO-910763,2021-10-12,Apple Education,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000245,PO-132031,2022-01-08,Ingram Micro,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000246,PO-684048,2022-04-17,CDW-G,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000247,PO-690435,2022-07-20,CDW-G,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000248,PO-421658,2022-10-21,SHI,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000249,PO-994078,2023-01-15,CDW-G,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000250,PO-488214,2023-04-09,Apple Education,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000251,PO-840909,2023-07-01,Connection,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000252,PO-506073,2023-10-19,CDW-G,E-Rate,2113,Questar_CSD_2113,Questar III BOCES
+91000253,PO-433101,2024-01-25,Ingram Micro,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000254,PO-623598,2024-04-25,Ingram Micro,E-Rate,2113,Questar_CSD_2113,Questar III BOCES
+91000255,PO-271827,2024-07-21,SHI,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000256,PO-643277,2024-10-23,CDW-G,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000257,PO-362492,2025-01-24,SHI,Federal Program,2113,Questar_CSD_2113,Questar III BOCES
+91000258,PO-706345,2025-04-19,CDW-G,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000259,PO-532336,2025-07-20,SHI,E-Rate,2113,Questar_CSD_2113,Questar III BOCES
+91000260,PO-311308,2025-10-25,CDW-G,Federal Program,2113,Questar_CSD_2113,Questar III BOCES
+91000261,PO-656646,2021-01-25,SHI,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000262,PO-519440,2021-04-20,SHI,E-Rate,2114,Questar_CSD_2114,Questar III BOCES
+91000263,PO-581562,2021-07-19,CDW-G,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000264,PO-749972,2021-10-16,Apple Education,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000265,PO-694945,2022-01-19,Ingram Micro,Federal Program,2114,Questar_CSD_2114,Questar III BOCES
+91000266,PO-232392,2022-04-20,SHI,Grant,2114,Questar_CSD_2114,Questar III BOCES
+91000267,PO-775046,2022-07-13,SHI,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000268,PO-639172,2022-10-13,CDW-G,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000269,PO-919041,2023-01-02,Connection,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000270,PO-119410,2023-04-23,Ingram Micro,Federal Program,2114,Questar_CSD_2114,Questar III BOCES
+91000271,PO-168490,2023-07-04,Connection,Federal Program,2114,Questar_CSD_2114,Questar III BOCES
+91000272,PO-906419,2023-10-25,CDW-G,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000273,PO-704538,2024-01-06,Ingram Micro,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000274,PO-324994,2024-04-12,Ingram Micro,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000275,PO-478400,2024-07-07,CDW-G,E-Rate,2114,Questar_CSD_2114,Questar III BOCES
+91000276,PO-738327,2024-10-17,CDW-G,E-Rate,2114,Questar_CSD_2114,Questar III BOCES
+91000277,PO-963428,2025-01-12,CDW-G,Federal Program,2114,Questar_CSD_2114,Questar III BOCES
+91000278,PO-805207,2025-04-22,CDW-G,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000279,PO-731303,2025-07-06,CDW-G,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000280,PO-706819,2025-10-21,Apple Education,Federal Program,2114,Questar_CSD_2114,Questar III BOCES
+91000281,PO-107433,2021-01-05,SHI,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000282,PO-557514,2021-04-05,SHI,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000283,PO-505943,2021-07-04,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000284,PO-833028,2021-10-15,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000285,PO-476863,2022-01-15,Connection,E-Rate,2115,Questar_CSD_2115,Questar III BOCES
+91000286,PO-540150,2022-04-19,SHI,E-Rate,2115,Questar_CSD_2115,Questar III BOCES
+91000287,PO-104978,2022-07-03,Ingram Micro,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000288,PO-131331,2022-10-12,CDW-G,Grant,2115,Questar_CSD_2115,Questar III BOCES
+91000289,PO-429818,2023-01-20,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000290,PO-530344,2023-04-07,Apple Education,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000291,PO-576881,2023-07-14,CDW-G,Grant,2115,Questar_CSD_2115,Questar III BOCES
+91000292,PO-900596,2023-10-14,SHI,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000293,PO-462838,2024-01-13,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000294,PO-806383,2024-04-22,Connection,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000295,PO-812735,2024-07-07,SHI,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000296,PO-448976,2024-10-25,Ingram Micro,Grant,2115,Questar_CSD_2115,Questar III BOCES
+91000297,PO-268847,2025-01-03,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000298,PO-291112,2025-04-13,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000299,PO-301694,2025-07-17,SHI,Grant,2115,Questar_CSD_2115,Questar III BOCES
+91000300,PO-403773,2025-10-24,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000301,PO-485276,2021-01-20,Ingram Micro,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000302,PO-835425,2021-04-12,Apple Education,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000303,PO-261470,2021-07-10,Connection,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000304,PO-166607,2021-10-13,Ingram Micro,Grant,2116,Questar_CSD_2116,Questar III BOCES
+91000305,PO-396698,2022-01-03,Ingram Micro,E-Rate,2116,Questar_CSD_2116,Questar III BOCES
+91000306,PO-101495,2022-04-17,Connection,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000307,PO-416813,2022-07-13,CDW-G,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000308,PO-486161,2022-10-21,CDW-G,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000309,PO-737756,2023-01-15,Connection,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000310,PO-651432,2023-04-01,SHI,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000311,PO-977181,2023-07-21,Apple Education,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000312,PO-269792,2023-10-17,Connection,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000313,PO-677783,2024-01-21,CDW-G,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000314,PO-985475,2024-04-01,Ingram Micro,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000315,PO-146682,2024-07-20,SHI,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000316,PO-539053,2024-10-05,SHI,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000317,PO-701495,2025-01-14,Connection,Grant,2116,Questar_CSD_2116,Questar III BOCES
+91000318,PO-406007,2025-04-21,SHI,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000319,PO-715081,2025-07-13,Ingram Micro,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000320,PO-556764,2025-10-12,Apple Education,Grant,2116,Questar_CSD_2116,Questar III BOCES
+91000321,PO-781913,2021-01-25,Connection,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000322,PO-501694,2021-04-05,Connection,Federal Program,2117,Capital_CSD_2117,Capital Region BOCES
+91000323,PO-200599,2021-07-20,SHI,Grant,2117,Capital_CSD_2117,Capital Region BOCES
+91000324,PO-647964,2021-10-05,SHI,E-Rate,2117,Capital_CSD_2117,Capital Region BOCES
+91000325,PO-184995,2022-01-10,Connection,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000326,PO-338160,2022-04-09,Apple Education,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000327,PO-210658,2022-07-17,CDW-G,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000328,PO-173760,2022-10-15,CDW-G,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000329,PO-948999,2023-01-05,CDW-G,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000330,PO-737121,2023-04-25,Connection,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000331,PO-268784,2023-07-24,Apple Education,E-Rate,2117,Capital_CSD_2117,Capital Region BOCES
+91000332,PO-243060,2023-10-15,Apple Education,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000333,PO-193761,2024-01-17,CDW-G,E-Rate,2117,Capital_CSD_2117,Capital Region BOCES
+91000334,PO-986077,2024-04-03,SHI,Grant,2117,Capital_CSD_2117,Capital Region BOCES
+91000335,PO-775796,2024-07-08,CDW-G,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000336,PO-228145,2024-10-09,Apple Education,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000337,PO-997483,2025-01-10,SHI,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000338,PO-977045,2025-04-22,Connection,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000339,PO-774446,2025-07-19,CDW-G,Grant,2117,Capital_CSD_2117,Capital Region BOCES
+91000340,PO-559938,2025-10-23,SHI,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000341,PO-272135,2021-01-07,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000342,PO-600829,2021-04-02,CDW-G,E-Rate,2118,Capital_CSD_2118,Capital Region BOCES
+91000343,PO-664042,2021-07-03,Apple Education,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000344,PO-874461,2021-10-14,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000345,PO-973402,2022-01-13,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000346,PO-256382,2022-04-25,Ingram Micro,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000347,PO-107998,2022-07-03,CDW-G,Federal Program,2118,Capital_CSD_2118,Capital Region BOCES
+91000348,PO-639316,2022-10-16,Ingram Micro,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000349,PO-761137,2023-01-21,Connection,Federal Program,2118,Capital_CSD_2118,Capital Region BOCES
+91000350,PO-539395,2023-04-14,Ingram Micro,Federal Program,2118,Capital_CSD_2118,Capital Region BOCES
+91000351,PO-388808,2023-07-04,Ingram Micro,E-Rate,2118,Capital_CSD_2118,Capital Region BOCES
+91000352,PO-395496,2023-10-14,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000353,PO-854381,2024-01-21,SHI,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000354,PO-418067,2024-04-17,Ingram Micro,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000355,PO-351170,2024-07-05,Apple Education,E-Rate,2118,Capital_CSD_2118,Capital Region BOCES
+91000356,PO-256438,2024-10-01,Apple Education,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000357,PO-652004,2025-01-17,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000358,PO-720169,2025-04-15,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000359,PO-718537,2025-07-03,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000360,PO-842017,2025-10-11,Connection,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000361,PO-169618,2021-01-25,SHI,Federal Program,2119,Capital_CSD_2119,Capital Region BOCES
+91000362,PO-886009,2021-04-22,SHI,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000363,PO-226400,2021-07-02,CDW-G,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000364,PO-704590,2021-10-08,CDW-G,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000365,PO-309495,2022-01-15,Apple Education,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000366,PO-381945,2022-04-08,Connection,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000367,PO-609121,2022-07-02,CDW-G,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000368,PO-634439,2022-10-11,CDW-G,E-Rate,2119,Capital_CSD_2119,Capital Region BOCES
+91000369,PO-639926,2023-01-13,Connection,Federal Program,2119,Capital_CSD_2119,Capital Region BOCES
+91000370,PO-683082,2023-04-17,SHI,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000371,PO-940623,2023-07-21,Apple Education,E-Rate,2119,Capital_CSD_2119,Capital Region BOCES
+91000372,PO-828742,2023-10-21,SHI,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000373,PO-729750,2024-01-11,SHI,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000374,PO-451032,2024-04-24,Connection,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000375,PO-835510,2024-07-21,CDW-G,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000376,PO-480606,2024-10-23,CDW-G,General Fund,2119,Capital_CSD_2119,Capital Region BOCES
+91000377,PO-636441,2025-01-06,CDW-G,E-Rate,2119,Capital_CSD_2119,Capital Region BOCES
+91000378,PO-385449,2025-04-09,Ingram Micro,E-Rate,2119,Capital_CSD_2119,Capital Region BOCES
+91000379,PO-408934,2025-07-01,CDW-G,Federal Program,2119,Capital_CSD_2119,Capital Region BOCES
+91000380,PO-922942,2025-10-24,CDW-G,Grant,2119,Capital_CSD_2119,Capital Region BOCES
+91000381,PO-882020,2021-01-20,CDW-G,General Fund,2120,Capital_CSD_2120,Capital Region BOCES
+91000382,PO-355174,2021-04-18,CDW-G,General Fund,2120,Capital_CSD_2120,Capital Region BOCES
+91000383,PO-425889,2021-07-01,SHI,E-Rate,2120,Capital_CSD_2120,Capital Region BOCES
+91000384,PO-754121,2021-10-17,CDW-G,E-Rate,2120,Capital_CSD_2120,Capital Region BOCES
+91000385,PO-838725,2022-01-02,CDW-G,Federal Program,2120,Capital_CSD_2120,Capital Region BOCES
+91000386,PO-577755,2022-04-23,Ingram Micro,General Fund,2120,Capital_CSD_2120,Capital Region BOCES
+91000387,PO-692633,2022-07-22,CDW-G,General Fund,2120,Capital_CSD_2120,Capital Region BOCES
+91000388,PO-281320,2022-10-16,CDW-G,General Fund,2120,Capital_CSD_2120,Capital Region BOCES
+91000389,PO-323080,2023-01-23,CDW-G,Grant,2120,Capital_CSD_2120,Capital Region BOCES
+91000390,PO-704584,2023-04-17,SHI,General Fund,2120,Capital_CSD_2120,Capital Region BOCES
+91000391,PO-927810,2023-07-08,SHI,General Fund,2120,Capital_CSD_2120,Capital Region BOCES
+91000392,PO-925620,2023-10-16,CDW-G,E-Rate,2120,Capital_CSD_2120,Capital Region BOCES
+91000393,PO-960723,2024-01-15,CDW-G,Federal Program,2120,Capital_CSD_2120,Capital Region BOCES
+91000394,PO-735430,2024-04-03,SHI,General Fund,2120,Capital_CSD_2120,Capital Region BOCES
+91000395,PO-819400,2024-07-24,Connection,Grant,2120,Capital_CSD_2120,Capital Region BOCES
+91000396,PO-144854,2024-10-02,Ingram Micro,E-Rate,2120,Capital_CSD_2120,Capital Region BOCES
+91000397,PO-945625,2025-01-24,Apple Education,General Fund,2120,Capital_CSD_2120,Capital Region BOCES
+91000398,PO-949031,2025-04-05,Ingram Micro,E-Rate,2120,Capital_CSD_2120,Capital Region BOCES
+91000399,PO-428488,2025-07-22,Ingram Micro,Grant,2120,Capital_CSD_2120,Capital Region BOCES
+91000400,PO-386393,2025-10-18,CDW-G,General Fund,2120,Capital_CSD_2120,Capital Region BOCES
+91000401,PO-349915,2021-01-17,CDW-G,General Fund,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000402,PO-278739,2021-04-05,Connection,Grant,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000403,PO-389781,2021-07-01,SHI,General Fund,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000404,PO-166169,2021-10-01,CDW-G,General Fund,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000405,PO-391338,2022-01-18,SHI,E-Rate,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000406,PO-467001,2022-04-25,SHI,Federal Program,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000407,PO-831216,2022-07-09,Ingram Micro,General Fund,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000408,PO-638359,2022-10-13,Connection,General Fund,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000409,PO-759961,2023-01-18,CDW-G,General Fund,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000410,PO-130357,2023-04-09,Ingram Micro,General Fund,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000411,PO-596276,2023-07-22,Connection,E-Rate,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000412,PO-957907,2023-10-11,Apple Education,General Fund,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000413,PO-418461,2024-01-17,Apple Education,General Fund,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000414,PO-754821,2024-04-06,CDW-G,General Fund,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000415,PO-850823,2024-07-12,SHI,E-Rate,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000416,PO-790154,2024-10-12,Ingram Micro,General Fund,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000417,PO-621898,2025-01-20,SHI,Grant,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000418,PO-307927,2025-04-15,CDW-G,E-Rate,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000419,PO-983727,2025-07-09,SHI,E-Rate,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000420,PO-993413,2025-10-21,Apple Education,E-Rate,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000421,PO-702425,2021-01-16,Apple Education,Grant,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000422,PO-346817,2021-04-12,Apple Education,E-Rate,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000423,PO-851327,2021-07-11,CDW-G,General Fund,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000424,PO-984563,2021-10-05,CDW-G,E-Rate,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000425,PO-750662,2022-01-13,Connection,General Fund,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000426,PO-847820,2022-04-09,Connection,Grant,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000427,PO-977522,2022-07-05,SHI,Federal Program,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000428,PO-402517,2022-10-02,Connection,General Fund,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000429,PO-170016,2023-01-11,SHI,Grant,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000430,PO-549819,2023-04-13,SHI,E-Rate,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000431,PO-163644,2023-07-21,CDW-G,Grant,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000432,PO-482402,2023-10-17,Apple Education,General Fund,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000433,PO-230373,2024-01-25,SHI,E-Rate,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000434,PO-812834,2024-04-16,CDW-G,E-Rate,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000435,PO-959036,2024-07-07,CDW-G,Grant,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000436,PO-513679,2024-10-20,Ingram Micro,E-Rate,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000437,PO-100697,2025-01-08,SHI,Grant,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000438,PO-274982,2025-04-07,SHI,General Fund,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000439,PO-219454,2025-07-04,CDW-G,E-Rate,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000440,PO-409182,2025-10-25,Apple Education,General Fund,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000441,PO-835098,2021-01-09,Apple Education,E-Rate,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000442,PO-498264,2021-04-22,Ingram Micro,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000443,PO-569311,2021-07-03,Apple Education,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000444,PO-695209,2021-10-09,SHI,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000445,PO-221652,2022-01-20,Apple Education,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000446,PO-757403,2022-04-01,SHI,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000447,PO-226432,2022-07-05,Apple Education,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000448,PO-223948,2022-10-19,Connection,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000449,PO-197002,2023-01-12,Connection,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000450,PO-237700,2023-04-10,CDW-G,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000451,PO-277016,2023-07-04,CDW-G,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000452,PO-434948,2023-10-25,CDW-G,E-Rate,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000453,PO-184478,2024-01-13,CDW-G,Federal Program,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000454,PO-390557,2024-04-15,Connection,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000455,PO-645048,2024-07-14,CDW-G,Grant,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000456,PO-362066,2024-10-22,CDW-G,Grant,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000457,PO-395749,2025-01-25,CDW-G,Federal Program,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000458,PO-712993,2025-04-07,SHI,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000459,PO-565916,2025-07-14,Connection,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000460,PO-855576,2025-10-14,Ingram Micro,E-Rate,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000461,PO-625710,2021-01-03,SHI,Federal Program,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000462,PO-530236,2021-04-12,Connection,Grant,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000463,PO-245288,2021-07-16,SHI,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000464,PO-201573,2021-10-06,Connection,E-Rate,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000465,PO-247435,2022-01-01,CDW-G,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000466,PO-462985,2022-04-05,Apple Education,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000467,PO-723674,2022-07-15,Ingram Micro,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000468,PO-778419,2022-10-25,SHI,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000469,PO-237680,2023-01-04,SHI,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000470,PO-589592,2023-04-25,Connection,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000471,PO-480841,2023-07-06,Apple Education,E-Rate,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000472,PO-212235,2023-10-07,SHI,E-Rate,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000473,PO-533167,2024-01-24,Ingram Micro,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000474,PO-946160,2024-04-25,Ingram Micro,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000475,PO-404134,2024-07-10,SHI,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000476,PO-157945,2024-10-13,SHI,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000477,PO-734415,2025-01-15,CDW-G,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000478,PO-534802,2025-04-16,SHI,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000479,PO-937351,2025-07-23,CDW-G,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000480,PO-407014,2025-10-16,CDW-G,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000481,PO-202569,2021-01-14,Connection,E-Rate,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000482,PO-670598,2021-04-12,Ingram Micro,Federal Program,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000483,PO-379032,2021-07-19,SHI,E-Rate,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000484,PO-679962,2021-10-09,Apple Education,General Fund,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000485,PO-283725,2022-01-22,Connection,General Fund,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000486,PO-501808,2022-04-24,Ingram Micro,Federal Program,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000487,PO-870898,2022-07-09,Connection,General Fund,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000488,PO-586933,2022-10-23,CDW-G,General Fund,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000489,PO-699421,2023-01-13,Apple Education,E-Rate,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000490,PO-999436,2023-04-03,Ingram Micro,E-Rate,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000491,PO-394638,2023-07-25,Connection,General Fund,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000492,PO-662554,2023-10-06,CDW-G,General Fund,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000493,PO-377463,2024-01-10,SHI,Grant,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000494,PO-839337,2024-04-07,Apple Education,General Fund,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000495,PO-157130,2024-07-10,Ingram Micro,Grant,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000496,PO-675953,2024-10-16,Connection,Federal Program,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000497,PO-447198,2025-01-02,Apple Education,General Fund,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000498,PO-624143,2025-04-16,SHI,General Fund,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000499,PO-358661,2025-07-11,CDW-G,Grant,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000500,PO-473881,2025-10-23,SHI,Grant,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000501,PO-182499,2021-01-01,Ingram Micro,E-Rate,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000502,PO-815777,2021-04-09,SHI,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000503,PO-734672,2021-07-02,SHI,E-Rate,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000504,PO-300315,2021-10-19,CDW-G,Federal Program,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000505,PO-348291,2022-01-04,CDW-G,E-Rate,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000506,PO-860590,2022-04-22,SHI,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000507,PO-971215,2022-07-22,Connection,Federal Program,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000508,PO-345694,2022-10-02,CDW-G,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000509,PO-856299,2023-01-19,Connection,Federal Program,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000510,PO-702426,2023-04-21,Connection,Federal Program,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000511,PO-267317,2023-07-03,Ingram Micro,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000512,PO-790803,2023-10-24,Connection,E-Rate,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000513,PO-177584,2024-01-18,CDW-G,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000514,PO-989015,2024-04-02,Connection,E-Rate,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000515,PO-867381,2024-07-13,CDW-G,E-Rate,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000516,PO-505040,2024-10-07,Apple Education,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000517,PO-410273,2025-01-20,CDW-G,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000518,PO-334365,2025-04-06,Ingram Micro,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000519,PO-259562,2025-07-18,CDW-G,Grant,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000520,PO-310013,2025-10-18,Connection,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000521,PO-799150,2021-01-25,CDW-G,Federal Program,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000522,PO-988637,2021-04-11,CDW-G,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000523,PO-957344,2021-07-12,CDW-G,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000524,PO-615699,2021-10-22,CDW-G,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000525,PO-803217,2022-01-14,Connection,E-Rate,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000526,PO-444399,2022-04-10,Connection,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000527,PO-264110,2022-07-08,CDW-G,E-Rate,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000528,PO-648455,2022-10-16,CDW-G,E-Rate,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000529,PO-365260,2023-01-02,CDW-G,E-Rate,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000530,PO-878032,2023-04-12,Connection,Federal Program,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000531,PO-680900,2023-07-19,CDW-G,E-Rate,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000532,PO-371425,2023-10-15,Ingram Micro,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000533,PO-413250,2024-01-10,CDW-G,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000534,PO-595138,2024-04-21,Connection,E-Rate,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000535,PO-796972,2024-07-21,Connection,Federal Program,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000536,PO-612129,2024-10-11,Connection,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000537,PO-548482,2025-01-11,Connection,Grant,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000538,PO-973480,2025-04-13,CDW-G,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000539,PO-571644,2025-07-02,CDW-G,E-Rate,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000540,PO-688853,2025-10-19,Connection,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000541,PO-519643,2021-01-23,SHI,General Fund,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000542,PO-387118,2021-04-13,Apple Education,General Fund,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000543,PO-378651,2021-07-04,Ingram Micro,Grant,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000544,PO-636225,2021-10-12,Ingram Micro,General Fund,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000545,PO-935347,2022-01-15,SHI,General Fund,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000546,PO-957539,2022-04-02,CDW-G,E-Rate,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000547,PO-428409,2022-07-19,Ingram Micro,E-Rate,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000548,PO-869661,2022-10-02,CDW-G,E-Rate,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000549,PO-867098,2023-01-21,Ingram Micro,General Fund,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000550,PO-476988,2023-04-02,CDW-G,General Fund,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000551,PO-580976,2023-07-17,SHI,E-Rate,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000552,PO-167011,2023-10-10,CDW-G,E-Rate,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000553,PO-772427,2024-01-23,SHI,E-Rate,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000554,PO-437853,2024-04-12,Ingram Micro,Federal Program,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000555,PO-691421,2024-07-25,CDW-G,E-Rate,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000556,PO-498937,2024-10-06,SHI,General Fund,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000557,PO-396889,2025-01-11,Apple Education,E-Rate,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000558,PO-663608,2025-04-12,SHI,Grant,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000559,PO-848156,2025-07-01,SHI,Grant,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000560,PO-744218,2025-10-19,CDW-G,General Fund,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000561,PO-455036,2021-01-20,Connection,Grant,2129,Erie_CSD_2129,Erie 1 BOCES
+91000562,PO-388470,2021-04-21,SHI,E-Rate,2129,Erie_CSD_2129,Erie 1 BOCES
+91000563,PO-134459,2021-07-21,SHI,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000564,PO-669528,2021-10-14,CDW-G,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000565,PO-833473,2022-01-24,CDW-G,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000566,PO-181464,2022-04-01,Apple Education,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000567,PO-582399,2022-07-13,Ingram Micro,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000568,PO-553016,2022-10-16,CDW-G,E-Rate,2129,Erie_CSD_2129,Erie 1 BOCES
+91000569,PO-480235,2023-01-17,Connection,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000570,PO-942702,2023-04-07,Connection,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000571,PO-218229,2023-07-22,Apple Education,Federal Program,2129,Erie_CSD_2129,Erie 1 BOCES
+91000572,PO-311621,2023-10-21,Ingram Micro,E-Rate,2129,Erie_CSD_2129,Erie 1 BOCES
+91000573,PO-163135,2024-01-15,SHI,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000574,PO-230559,2024-04-12,CDW-G,E-Rate,2129,Erie_CSD_2129,Erie 1 BOCES
+91000575,PO-804458,2024-07-22,SHI,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000576,PO-420761,2024-10-25,SHI,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000577,PO-666894,2025-01-11,Ingram Micro,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000578,PO-664831,2025-04-10,SHI,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000579,PO-436477,2025-07-25,CDW-G,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000580,PO-891968,2025-10-05,SHI,E-Rate,2129,Erie_CSD_2129,Erie 1 BOCES
+91000581,PO-917507,2021-01-15,CDW-G,E-Rate,2130,Erie_CSD_2130,Erie 1 BOCES
+91000582,PO-527824,2021-04-08,Ingram Micro,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000583,PO-467418,2021-07-03,SHI,Grant,2130,Erie_CSD_2130,Erie 1 BOCES
+91000584,PO-688284,2021-10-15,CDW-G,E-Rate,2130,Erie_CSD_2130,Erie 1 BOCES
+91000585,PO-304253,2022-01-15,SHI,Federal Program,2130,Erie_CSD_2130,Erie 1 BOCES
+91000586,PO-627972,2022-04-17,CDW-G,E-Rate,2130,Erie_CSD_2130,Erie 1 BOCES
+91000587,PO-600292,2022-07-08,Connection,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000588,PO-224506,2022-10-08,SHI,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000589,PO-154046,2023-01-11,CDW-G,Federal Program,2130,Erie_CSD_2130,Erie 1 BOCES
+91000590,PO-913113,2023-04-02,Apple Education,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000591,PO-239000,2023-07-04,CDW-G,E-Rate,2130,Erie_CSD_2130,Erie 1 BOCES
+91000592,PO-588972,2023-10-21,Ingram Micro,E-Rate,2130,Erie_CSD_2130,Erie 1 BOCES
+91000593,PO-735787,2024-01-01,CDW-G,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000594,PO-122897,2024-04-01,SHI,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000595,PO-762229,2024-07-16,Connection,Grant,2130,Erie_CSD_2130,Erie 1 BOCES
+91000596,PO-366175,2024-10-16,Connection,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000597,PO-979015,2025-01-09,Ingram Micro,E-Rate,2130,Erie_CSD_2130,Erie 1 BOCES
+91000598,PO-251718,2025-04-10,CDW-G,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000599,PO-474716,2025-07-21,CDW-G,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000600,PO-142515,2025-10-09,Apple Education,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000601,PO-479174,2021-01-17,Apple Education,Grant,2131,Erie_CSD_2131,Erie 1 BOCES
+91000602,PO-457188,2021-04-18,SHI,E-Rate,2131,Erie_CSD_2131,Erie 1 BOCES
+91000603,PO-371538,2021-07-21,Ingram Micro,General Fund,2131,Erie_CSD_2131,Erie 1 BOCES
+91000604,PO-543092,2021-10-23,Connection,General Fund,2131,Erie_CSD_2131,Erie 1 BOCES
+91000605,PO-403376,2022-01-22,Ingram Micro,Federal Program,2131,Erie_CSD_2131,Erie 1 BOCES
+91000606,PO-818291,2022-04-09,CDW-G,General Fund,2131,Erie_CSD_2131,Erie 1 BOCES
+91000607,PO-506877,2022-07-22,Ingram Micro,General Fund,2131,Erie_CSD_2131,Erie 1 BOCES
+91000608,PO-802183,2022-10-25,SHI,General Fund,2131,Erie_CSD_2131,Erie 1 BOCES
+91000609,PO-901549,2023-01-21,Apple Education,General Fund,2131,Erie_CSD_2131,Erie 1 BOCES
+91000610,PO-499324,2023-04-19,Connection,Grant,2131,Erie_CSD_2131,Erie 1 BOCES
+91000611,PO-201707,2023-07-14,CDW-G,Grant,2131,Erie_CSD_2131,Erie 1 BOCES
+91000612,PO-416079,2023-10-19,SHI,General Fund,2131,Erie_CSD_2131,Erie 1 BOCES
+91000613,PO-389006,2024-01-21,SHI,General Fund,2131,Erie_CSD_2131,Erie 1 BOCES
+91000614,PO-324826,2024-04-24,SHI,E-Rate,2131,Erie_CSD_2131,Erie 1 BOCES
+91000615,PO-457541,2024-07-15,SHI,General Fund,2131,Erie_CSD_2131,Erie 1 BOCES
+91000616,PO-279493,2024-10-05,SHI,Federal Program,2131,Erie_CSD_2131,Erie 1 BOCES
+91000617,PO-866080,2025-01-16,Connection,E-Rate,2131,Erie_CSD_2131,Erie 1 BOCES
+91000618,PO-980848,2025-04-11,CDW-G,E-Rate,2131,Erie_CSD_2131,Erie 1 BOCES
+91000619,PO-220754,2025-07-04,Ingram Micro,Grant,2131,Erie_CSD_2131,Erie 1 BOCES
+91000620,PO-113167,2025-10-24,SHI,E-Rate,2131,Erie_CSD_2131,Erie 1 BOCES
+91000621,PO-962324,2021-01-19,CDW-G,E-Rate,2132,Erie_CSD_2132,Erie 1 BOCES
+91000622,PO-435418,2021-04-01,Apple Education,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000623,PO-291014,2021-07-25,SHI,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000624,PO-879667,2021-10-01,Apple Education,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000625,PO-844133,2022-01-22,CDW-G,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000626,PO-153747,2022-04-21,Ingram Micro,Grant,2132,Erie_CSD_2132,Erie 1 BOCES
+91000627,PO-592516,2022-07-20,Connection,E-Rate,2132,Erie_CSD_2132,Erie 1 BOCES
+91000628,PO-962234,2022-10-21,SHI,Grant,2132,Erie_CSD_2132,Erie 1 BOCES
+91000629,PO-169682,2023-01-08,SHI,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000630,PO-935974,2023-04-25,Ingram Micro,E-Rate,2132,Erie_CSD_2132,Erie 1 BOCES
+91000631,PO-711856,2023-07-17,Apple Education,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000632,PO-853683,2023-10-18,Ingram Micro,E-Rate,2132,Erie_CSD_2132,Erie 1 BOCES
+91000633,PO-450877,2024-01-08,Connection,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000634,PO-575743,2024-04-19,CDW-G,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000635,PO-468529,2024-07-25,CDW-G,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000636,PO-609222,2024-10-17,Ingram Micro,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000637,PO-422442,2025-01-19,Ingram Micro,E-Rate,2132,Erie_CSD_2132,Erie 1 BOCES
+91000638,PO-124011,2025-04-08,Apple Education,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000639,PO-287758,2025-07-13,CDW-G,E-Rate,2132,Erie_CSD_2132,Erie 1 BOCES
+91000640,PO-964681,2025-10-13,CDW-G,Grant,2132,Erie_CSD_2132,Erie 1 BOCES
+91000641,PO-396493,2026-01-11,SHI,Federal Program,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000642,PO-405800,2026-01-16,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000643,PO-567683,2026-01-31,SHI,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000644,PO-400158,2026-01-23,SHI,Federal Program,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000645,PO-606671,2026-01-18,Apple Education,E-Rate,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000646,PO-859089,2026-01-12,Connection,Federal Program,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000647,PO-958045,2026-01-26,Connection,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000648,PO-475678,2026-01-01,SHI,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000649,PO-935492,2026-01-30,CDW-G,Federal Program,2119,Capital_CSD_2119,Capital Region BOCES
+91000650,PO-446486,2026-01-10,CDW-G,Federal Program,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000651,PO-752330,2026-01-01,CDW-G,E-Rate,2132,Erie_CSD_2132,Erie 1 BOCES
+91000652,PO-225137,2026-01-18,CDW-G,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000653,PO-521480,2026-01-22,CDW-G,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000654,PO-210211,2026-01-14,CDW-G,Grant,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000655,PO-366027,2026-01-25,Connection,Grant,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000656,PO-406352,2026-01-06,Connection,E-Rate,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000657,PO-886567,2026-01-09,Ingram Micro,Grant,2131,Erie_CSD_2131,Erie 1 BOCES
+91000658,PO-995202,2026-01-24,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000659,PO-603437,2026-01-21,SHI,E-Rate,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000660,PO-669071,2026-01-22,CDW-G,Grant,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000661,PO-835879,2026-01-02,CDW-G,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000662,PO-603991,2026-01-13,CDW-G,General Fund,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000663,PO-309366,2026-01-19,CDW-G,E-Rate,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000664,PO-408189,2026-01-10,CDW-G,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000665,PO-500841,2026-01-23,SHI,Grant,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000666,PO-837967,2026-01-17,CDW-G,E-Rate,2131,Erie_CSD_2131,Erie 1 BOCES
+91000667,PO-153661,2026-01-04,Connection,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000668,PO-805393,2026-01-31,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000669,PO-580831,2026-01-31,SHI,Grant,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000670,PO-670315,2026-01-13,Ingram Micro,E-Rate,2119,Capital_CSD_2119,Capital Region BOCES
+91000671,PO-539091,2026-01-22,Ingram Micro,E-Rate,2132,Erie_CSD_2132,Erie 1 BOCES
+91000672,PO-504401,2026-01-29,CDW-G,E-Rate,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000673,PO-916665,2026-02-07,Apple Education,Grant,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000674,PO-244969,2026-02-17,CDW-G,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000675,PO-827893,2026-02-09,SHI,E-Rate,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000676,PO-158679,2026-02-11,CDW-G,E-Rate,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000677,PO-776169,2026-02-02,Ingram Micro,E-Rate,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000678,PO-883068,2026-02-01,SHI,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000679,PO-937339,2026-02-25,SHI,Grant,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000680,PO-691510,2026-02-03,Connection,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000681,PO-521783,2026-02-16,SHI,Federal Program,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000682,PO-931458,2026-02-23,Apple Education,E-Rate,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000683,PO-735643,2026-02-16,CDW-G,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000684,PO-963064,2026-02-07,SHI,E-Rate,2113,Questar_CSD_2113,Questar III BOCES
+91000685,PO-774409,2026-02-05,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000686,PO-966830,2026-02-16,Apple Education,Grant,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000687,PO-180822,2026-02-23,CDW-G,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000688,PO-265805,2026-02-23,CDW-G,E-Rate,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000689,PO-433605,2026-02-26,Apple Education,Grant,2116,Questar_CSD_2116,Questar III BOCES
+91000690,PO-499599,2026-02-03,Connection,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000691,PO-290991,2026-02-01,CDW-G,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000692,PO-534161,2026-02-09,Connection,Grant,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000693,PO-680445,2026-02-16,SHI,Grant,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000694,PO-892394,2026-02-12,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000695,PO-183351,2026-02-11,Apple Education,General Fund,2120,Capital_CSD_2120,Capital Region BOCES
+91000696,PO-709167,2026-02-21,SHI,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000697,PO-170842,2026-02-18,CDW-G,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000698,PO-883744,2026-02-28,SHI,Grant,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000699,PO-145171,2026-02-17,Connection,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000700,PO-722426,2026-02-07,CDW-G,Grant,2119,Capital_CSD_2119,Capital Region BOCES
+91000701,PO-268790,2026-02-17,CDW-G,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000702,PO-282922,2026-02-19,SHI,E-Rate,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000703,PO-327371,2026-02-25,Apple Education,Federal Program,2114,Questar_CSD_2114,Questar III BOCES
+91000704,PO-934790,2026-02-27,SHI,E-Rate,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000705,PO-276001,2026-03-12,CDW-G,E-Rate,2119,Capital_CSD_2119,Capital Region BOCES
+91000706,PO-839235,2026-03-14,Connection,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000707,PO-800407,2026-03-14,Ingram Micro,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000708,PO-348677,2026-03-11,Apple Education,E-Rate,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000709,PO-978118,2026-03-03,Connection,Grant,2116,Questar_CSD_2116,Questar III BOCES
+91000710,PO-586271,2026-03-11,SHI,E-Rate,2129,Erie_CSD_2129,Erie 1 BOCES
+91000711,PO-131677,2026-03-03,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000712,PO-140516,2026-03-10,SHI,E-Rate,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000713,PO-498549,2026-03-08,Ingram Micro,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000714,PO-770321,2026-03-22,SHI,Grant,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000715,PO-574679,2026-03-26,CDW-G,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000716,PO-405254,2026-03-01,Apple Education,General Fund,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000717,PO-253541,2026-03-21,CDW-G,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000718,PO-586090,2026-03-15,CDW-G,Federal Program,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000719,PO-215538,2026-03-29,SHI,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000720,PO-870580,2026-03-28,Ingram Micro,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000721,PO-855063,2026-03-19,CDW-G,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000722,PO-675391,2026-03-02,Apple Education,Grant,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000723,PO-755515,2026-03-17,CDW-G,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000724,PO-591816,2026-03-06,Apple Education,General Fund,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000725,PO-163715,2026-03-14,CDW-G,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000726,PO-870430,2026-03-10,CDW-G,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000727,PO-285850,2026-03-08,Ingram Micro,E-Rate,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000728,PO-736559,2026-03-10,Ingram Micro,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000729,PO-162423,2026-03-01,SHI,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000730,PO-423914,2026-03-06,Ingram Micro,E-Rate,2119,Capital_CSD_2119,Capital Region BOCES
+91000731,PO-386128,2026-03-23,CDW-G,E-Rate,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000732,PO-617280,2026-03-25,Connection,E-Rate,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000733,PO-656291,2026-03-14,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000734,PO-256349,2026-03-10,SHI,Grant,2115,Questar_CSD_2115,Questar III BOCES
+91000735,PO-309256,2026-03-11,SHI,E-Rate,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000736,PO-473042,2026-03-03,Connection,Federal Program,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000737,PO-512034,2026-04-25,CDW-G,General Fund,2130,Erie_CSD_2130,Erie 1 BOCES
+91000738,PO-624845,2026-04-04,Connection,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000739,PO-880116,2026-04-19,CDW-G,General Fund,2114,Questar_CSD_2114,Questar III BOCES
+91000740,PO-375574,2026-04-13,Connection,Federal Program,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000741,PO-415424,2026-04-14,CDW-G,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000742,PO-338444,2026-04-10,SHI,Grant,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000743,PO-393891,2026-04-26,SHI,Grant,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000744,PO-453833,2026-04-26,CDW-G,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000745,PO-150358,2026-04-30,CDW-G,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000746,PO-683462,2026-04-08,Ingram Micro,E-Rate,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000747,PO-767383,2026-04-14,CDW-G,Grant,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000748,PO-686494,2026-04-04,CDW-G,Grant,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000749,PO-685096,2026-04-14,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000750,PO-256997,2026-04-07,Connection,General Fund,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+91000751,PO-565920,2026-04-18,Ingram Micro,E-Rate,2120,Capital_CSD_2120,Capital Region BOCES
+91000752,PO-350641,2026-04-17,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000753,PO-666544,2026-04-15,Connection,Grant,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000754,PO-637787,2026-04-22,SHI,Grant,2115,Questar_CSD_2115,Questar III BOCES
+91000755,PO-774277,2026-04-18,SHI,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000756,PO-408461,2026-04-27,SHI,Grant,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000757,PO-506831,2026-04-24,CDW-G,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000758,PO-263867,2026-04-14,SHI,E-Rate,2129,Erie_CSD_2129,Erie 1 BOCES
+91000759,PO-245242,2026-04-12,Connection,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000760,PO-559732,2026-04-18,Apple Education,General Fund,2132,Erie_CSD_2132,Erie 1 BOCES
+91000761,PO-608884,2026-04-27,CDW-G,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000762,PO-431320,2026-04-30,CDW-G,General Fund,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+91000763,PO-101063,2026-04-16,SHI,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000764,PO-951508,2026-04-27,CDW-G,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000765,PO-564779,2026-04-02,Connection,E-Rate,2102,Southern_CSD_2102,Southern Westchester BOCES
+91000766,PO-697562,2026-04-08,CDW-G,General Fund,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+91000767,PO-734064,2026-04-09,CDW-G,General Fund,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+91000768,PO-192416,2026-04-05,Ingram Micro,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES

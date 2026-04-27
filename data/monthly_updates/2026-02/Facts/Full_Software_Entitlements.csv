@@ -1,0 +1,36 @@
+License_ID,Item_Class,Item_Family,Software_Name,Manufacturer,License_Type,SKU,Term_Months,Subscription_Start_Date,Subscription_End_Date,Auto_Renewal_Status,License_Status,Quantity_Purchased,Unit_Cost,Total_Cost,Department_Owner,District_ID,District_Name,BOCES_Region
+60000232,License,Infrastructure,Veeam Backup & Replication,Veeam,Device-based,VEEAM-VUL,36,2026-02-07,2029-02-07,No,Active,1,1.05,1.05,School IT,2104,Southern_CSD_2104,Southern Westchester BOCES
+60000233,License,Productivity,Microsoft 365 A3,Microsoft,User-based,M365-A3,12,2026-02-07,2027-02-07,No,Active,1550,1.00,1556.61,School IT,2104,Southern_CSD_2104,Southern Westchester BOCES
+60000234,License,Productivity,Microsoft 365 A3,Microsoft,Device-based,M365-A3,12,2026-02-09,2027-02-09,No,Active,1918,1.04,1990.03,District IT,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+60000235,License,Telephony,VoIP SIP Trunk,Bandwidth,Device-based,SIP-TRUNK,12,2026-02-09,2027-02-09,No,Active,1,1.00,1.00,District IT,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+60000236,License,Productivity,Microsoft 365 A3,Microsoft,User-based,M365-A3,12,2026-02-09,2027-02-09,Yes,Active,2153,1.05,2253.98,District IT,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+60000237,License,Productivity,Microsoft 365 A3,Microsoft,Site-based,M365-A3,12,2026-02-11,2027-02-11,No,Active,2753,1.03,2842.55,District IT,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+60000238,License,Productivity,Microsoft 365 A3,Microsoft,User-based,M365-A3,12,2026-02-01,2027-02-01,Yes,Active,3029,1.00,3029.00,District IT,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+60000239,License,Telephony,VoIP SIP Trunk,Bandwidth,Device-based,SIP-TRUNK,12,2026-02-01,2027-02-01,No,Active,1,1.01,1.01,IT / Security,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+60000240,License,Telephony,VoIP SIP Trunk,Bandwidth,Device-based,SIP-TRUNK,12,2026-02-25,2027-02-25,No,Active,1,1.02,1.02,School IT,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+60000241,License,Telephony,VoIP SIP Trunk,Bandwidth,Site-based,SIP-TRUNK,12,2026-02-25,2027-02-25,Yes,Active,1,1.02,1.02,IT / Security,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+60000242,License,Telephony,VoIP SIP Trunk,Bandwidth,User-based,SIP-TRUNK,12,2026-02-03,2027-02-03,No,Active,1,1.01,1.01,IT / Security,2117,Capital_CSD_2117,Capital Region BOCES
+60000243,License,Security,CrowdStrike Falcon,CrowdStrike,Site-based,CS-FALCON,12,2026-02-03,2027-02-03,Yes,Active,1718,1.04,1782.70,District IT,2117,Capital_CSD_2117,Capital Region BOCES
+60000244,License,Productivity,Microsoft 365 A3,Microsoft,Site-based,M365-A3,12,2026-02-16,2027-02-16,Yes,Active,1170,1.05,1226.95,District IT,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+60000245,License,Productivity,Microsoft 365 A3,Microsoft,Device-based,M365-A3,12,2026-02-16,2027-02-16,Yes,Active,2611,1.05,2731.17,District IT,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+60000246,License,Productivity,Microsoft 365 A3,Microsoft,User-based,M365-A3,12,2026-02-16,2027-02-16,Yes,Active,2238,1.04,2323.42,District IT,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+60000247,License,Networking,Cisco Meraki License (AP),Cisco,User-based,MR-ENT,36,2026-02-05,2029-02-05,No,Active,146,1.04,152.15,IT / Security,2115,Questar_CSD_2115,Questar III BOCES
+60000248,License,Productivity,Microsoft 365 A3,Microsoft,Device-based,M365-A3,12,2026-02-05,2027-02-05,Yes,Active,1486,1.00,1486.00,District IT,2115,Questar_CSD_2115,Questar III BOCES
+60000249,License,Networking,Cisco Meraki License (AP),Cisco,User-based,MR-ENT,36,2026-02-16,2029-02-16,Yes,Active,152,1.00,152.63,IT / Security,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+60000250,License,Telephony,VoIP SIP Trunk,Bandwidth,User-based,SIP-TRUNK,12,2026-02-26,2027-02-26,Yes,Active,1,1.02,1.02,School IT,2116,Questar_CSD_2116,Questar III BOCES
+60000251,License,Networking,Cisco Meraki License (AP),Cisco,User-based,MR-ENT,36,2026-02-03,2029-02-03,Yes,Active,350,1.04,362.72,District IT,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+60000252,License,MDM,Jamf School,Jamf,Device-based,JAMF-SCH,12,2026-02-03,2027-02-03,No,Active,348,1.00,348.35,IT / Security,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+60000253,License,MDM,Jamf School,Jamf,Device-based,JAMF-SCH,12,2026-02-03,2027-02-03,Yes,Active,354,1.01,357.40,IT / Security,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+60000254,License,MDM,Jamf School,Jamf,User-based,JAMF-SCH,12,2026-02-09,2027-02-09,No,Active,109,1.00,109.23,District IT,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+60000255,License,Productivity,Microsoft 365 A3,Microsoft,Device-based,M365-A3,12,2026-02-12,2027-02-12,No,Active,1595,1.00,1595.00,School IT,2118,Capital_CSD_2118,Capital Region BOCES
+60000256,License,MDM,Jamf School,Jamf,Site-based,JAMF-SCH,12,2026-02-12,2027-02-12,No,Active,195,1.01,197.37,District IT,2118,Capital_CSD_2118,Capital Region BOCES
+60000257,License,MDM,Jamf School,Jamf,Device-based,JAMF-SCH,12,2026-02-18,2027-02-18,No,Active,244,1.03,252.37,IT / Security,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+60000258,License,Telephony,VoIP SIP Trunk,Bandwidth,Device-based,SIP-TRUNK,12,2026-02-18,2027-02-18,No,Active,1,1.05,1.05,IT / Security,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+60000259,License,Security,CrowdStrike Falcon,CrowdStrike,Site-based,CS-FALCON,12,2026-02-28,2027-02-28,Yes,Active,1488,1.04,1543.48,District IT,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+60000260,License,Security,CrowdStrike Falcon,CrowdStrike,Site-based,CS-FALCON,12,2026-02-17,2027-02-17,No,Active,1208,1.03,1240.90,District IT,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+60000261,License,Productivity,Microsoft 365 A3,Microsoft,Device-based,M365-A3,12,2026-02-17,2027-02-17,No,Active,1530,1.01,1544.78,District IT,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+60000262,License,Productivity,Microsoft 365 A3,Microsoft,Device-based,M365-A3,12,2026-02-19,2027-02-19,No,Active,1255,1.01,1269.38,IT / Security,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+60000263,License,Infrastructure,Veeam Backup & Replication,Veeam,Device-based,VEEAM-VUL,36,2026-02-19,2029-02-19,No,Active,1,1.00,1.00,District IT,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+60000264,License,Productivity,Microsoft 365 A3,Microsoft,Site-based,M365-A3,12,2026-02-25,2027-02-25,Yes,Active,2032,1.01,2054.43,District IT,2114,Questar_CSD_2114,Questar III BOCES
+60000265,License,Networking,Cisco Meraki License (AP),Cisco,Device-based,MR-ENT,36,2026-02-25,2029-02-25,No,Active,149,1.01,151.16,IT / Security,2114,Questar_CSD_2114,Questar III BOCES
+60000266,License,Networking,Cisco Meraki License (AP),Cisco,User-based,MR-ENT,36,2026-02-25,2029-02-25,Yes,Active,163,1.00,163.00,School IT,2114,Questar_CSD_2114,Questar III BOCES

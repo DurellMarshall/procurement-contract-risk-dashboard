@@ -1,0 +1,97 @@
+School_ID,School_Name,School_Type,District_ID,BOCES_Region,District_Name
+5101,Central Elementary School,Elementary,2101,Southern Westchester BOCES,Southern_CSD_2101
+5102,Valley High School,High,2101,Southern Westchester BOCES,Southern_CSD_2101
+5103,South High School,High,2101,Southern Westchester BOCES,Southern_CSD_2101
+5104,South Middle School,Middle,2102,Southern Westchester BOCES,Southern_CSD_2102
+5105,West High School,High,2102,Southern Westchester BOCES,Southern_CSD_2102
+5106,Central Elementary School,Elementary,2102,Southern Westchester BOCES,Southern_CSD_2102
+5107,STEM Elementary School,Elementary,2103,Southern Westchester BOCES,Southern_CSD_2103
+5108,East Admin Building,Admin,2103,Southern Westchester BOCES,Southern_CSD_2103
+5109,South Elementary School,Elementary,2103,Southern Westchester BOCES,Southern_CSD_2103
+5110,Valley Elementary School,Elementary,2104,Southern Westchester BOCES,Southern_CSD_2104
+5111,North Elementary School,Elementary,2104,Southern Westchester BOCES,Southern_CSD_2104
+5112,STEM Elementary School,Elementary,2104,Southern Westchester BOCES,Southern_CSD_2104
+5113,Central Tech Center,Tech Center,2105,Lower Hudson Valley BOCES,Lower_CSD_2105
+5114,East Elementary School,Elementary,2105,Lower Hudson Valley BOCES,Lower_CSD_2105
+5115,STEM Admin Building,Admin,2105,Lower Hudson Valley BOCES,Lower_CSD_2105
+5116,Ridge Admin Building,Admin,2106,Lower Hudson Valley BOCES,Lower_CSD_2106
+5117,Ridge Elementary School #1,Elementary,2106,Lower Hudson Valley BOCES,Lower_CSD_2106
+5118,Ridge Elementary School #2,Elementary,2106,Lower Hudson Valley BOCES,Lower_CSD_2106
+5119,North Elementary School,Elementary,2107,Lower Hudson Valley BOCES,Lower_CSD_2107
+5120,Central Elementary School,Elementary,2107,Lower Hudson Valley BOCES,Lower_CSD_2107
+5121,East Middle School,Middle,2107,Lower Hudson Valley BOCES,Lower_CSD_2107
+5122,West Elementary School,Elementary,2108,Lower Hudson Valley BOCES,Lower_CSD_2108
+5123,Ridge Middle School,Middle,2108,Lower Hudson Valley BOCES,Lower_CSD_2108
+5124,Central High School,High,2108,Lower Hudson Valley BOCES,Lower_CSD_2108
+5125,Valley Middle School,Middle,2109,Dutchess-Ulster BOCES,DutchessUlster_CSD_2109
+5126,Central Elementary School,Elementary,2109,Dutchess-Ulster BOCES,DutchessUlster_CSD_2109
+5127,South Elementary School,Elementary,2109,Dutchess-Ulster BOCES,DutchessUlster_CSD_2109
+5128,East Admin Building,Admin,2110,Dutchess-Ulster BOCES,DutchessUlster_CSD_2110
+5129,Central Elementary School,Elementary,2110,Dutchess-Ulster BOCES,DutchessUlster_CSD_2110
+5130,Tech Elementary School,Elementary,2110,Dutchess-Ulster BOCES,DutchessUlster_CSD_2110
+5131,Valley High School,High,2111,Dutchess-Ulster BOCES,DutchessUlster_CSD_2111
+5132,North Middle School,Middle,2111,Dutchess-Ulster BOCES,DutchessUlster_CSD_2111
+5133,Central Tech Center,Tech Center,2111,Dutchess-Ulster BOCES,DutchessUlster_CSD_2111
+5134,North High School,High,2112,Dutchess-Ulster BOCES,DutchessUlster_CSD_2112
+5135,Valley High School,High,2112,Dutchess-Ulster BOCES,DutchessUlster_CSD_2112
+5136,Tech High School,High,2112,Dutchess-Ulster BOCES,DutchessUlster_CSD_2112
+5137,Ridge Middle School,Middle,2113,Questar III BOCES,Questar_CSD_2113
+5138,East High School,High,2113,Questar III BOCES,Questar_CSD_2113
+5139,South Elementary School,Elementary,2113,Questar III BOCES,Questar_CSD_2113
+5140,Central Elementary School,Elementary,2114,Questar III BOCES,Questar_CSD_2114
+5141,North Tech Center,Tech Center,2114,Questar III BOCES,Questar_CSD_2114
+5142,East Middle School,Middle,2114,Questar III BOCES,Questar_CSD_2114
+5143,North Middle School,Middle,2115,Questar III BOCES,Questar_CSD_2115
+5144,South Elementary School,Elementary,2115,Questar III BOCES,Questar_CSD_2115
+5145,Ridge Elementary School,Elementary,2115,Questar III BOCES,Questar_CSD_2115
+5146,North Middle School,Middle,2116,Questar III BOCES,Questar_CSD_2116
+5147,Heights Admin Building,Admin,2116,Questar III BOCES,Questar_CSD_2116
+5148,STEM Admin Building,Admin,2116,Questar III BOCES,Questar_CSD_2116
+5149,East High School,High,2117,Capital Region BOCES,Capital_CSD_2117
+5150,STEM Elementary School,Elementary,2117,Capital Region BOCES,Capital_CSD_2117
+5151,Central High School,High,2117,Capital Region BOCES,Capital_CSD_2117
+5152,Heights Elementary School,Elementary,2118,Capital Region BOCES,Capital_CSD_2118
+5153,Central Middle School,Middle,2118,Capital Region BOCES,Capital_CSD_2118
+5154,West Elementary School,Elementary,2118,Capital Region BOCES,Capital_CSD_2118
+5155,Central High School,High,2119,Capital Region BOCES,Capital_CSD_2119
+5156,Valley Elementary School,Elementary,2119,Capital Region BOCES,Capital_CSD_2119
+5157,Tech Tech Center,Tech Center,2119,Capital Region BOCES,Capital_CSD_2119
+5158,Central Middle School,Middle,2120,Capital Region BOCES,Capital_CSD_2120
+5159,Heights High School,High,2120,Capital Region BOCES,Capital_CSD_2120
+5160,West Elementary School,Elementary,2120,Capital Region BOCES,Capital_CSD_2120
+5161,STEM High School,High,2121,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2121
+5162,Valley Elementary School,Elementary,2121,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2121
+5163,Central High School,High,2121,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2121
+5164,Ridge Admin Building,Admin,2122,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2122
+5165,Ridge Middle School,Middle,2122,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2122
+5166,Valley High School,High,2122,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2122
+5167,Ridge High School,High,2123,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2123
+5168,South Tech Center,Tech Center,2123,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2123
+5169,North Elementary School,Elementary,2123,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2123
+5170,Ridge Middle School,Middle,2124,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2124
+5171,East High School,High,2124,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2124
+5172,Central Elementary School,Elementary,2124,Jefferson-Lewis BOCES,JeffersonLewis_CSD_2124
+5173,STEM Elementary School,Elementary,2125,St. Lawrence-Lewis BOCES,St._CSD_2125
+5174,West Elementary School,Elementary,2125,St. Lawrence-Lewis BOCES,St._CSD_2125
+5175,Ridge High School,High,2125,St. Lawrence-Lewis BOCES,St._CSD_2125
+5176,Ridge Middle School,Middle,2126,St. Lawrence-Lewis BOCES,St._CSD_2126
+5177,Valley Admin Building,Admin,2126,St. Lawrence-Lewis BOCES,St._CSD_2126
+5178,Tech Elementary School,Elementary,2126,St. Lawrence-Lewis BOCES,St._CSD_2126
+5179,Central High School,High,2127,St. Lawrence-Lewis BOCES,St._CSD_2127
+5180,North Admin Building,Admin,2127,St. Lawrence-Lewis BOCES,St._CSD_2127
+5181,Tech Tech Center,Tech Center,2127,St. Lawrence-Lewis BOCES,St._CSD_2127
+5182,STEM Admin Building,Admin,2128,St. Lawrence-Lewis BOCES,St._CSD_2128
+5183,East Middle School,Middle,2128,St. Lawrence-Lewis BOCES,St._CSD_2128
+5184,North Elementary School,Elementary,2128,St. Lawrence-Lewis BOCES,St._CSD_2128
+5185,STEM High School,High,2129,Erie 1 BOCES,Erie_CSD_2129
+5186,Tech Elementary School,Elementary,2129,Erie 1 BOCES,Erie_CSD_2129
+5187,Heights Elementary School,Elementary,2129,Erie 1 BOCES,Erie_CSD_2129
+5188,STEM Elementary School,Elementary,2130,Erie 1 BOCES,Erie_CSD_2130
+5189,Central Admin Building,Admin,2130,Erie 1 BOCES,Erie_CSD_2130
+5190,Central Elementary School,Elementary,2130,Erie 1 BOCES,Erie_CSD_2130
+5191,STEM Tech Center,Tech Center,2131,Erie 1 BOCES,Erie_CSD_2131
+5192,North Tech Center,Tech Center,2131,Erie 1 BOCES,Erie_CSD_2131
+5193,Central Middle School,Middle,2131,Erie 1 BOCES,Erie_CSD_2131
+5194,South Admin Building,Admin,2132,Erie 1 BOCES,Erie_CSD_2132
+5195,Heights Elementary School,Elementary,2132,Erie 1 BOCES,Erie_CSD_2132
+5196,North Elementary School,Elementary,2132,Erie 1 BOCES,Erie_CSD_2132

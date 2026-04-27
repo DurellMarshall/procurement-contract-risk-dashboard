@@ -1,0 +1,8 @@
+Contract_ID,Vendor,Contract_Category,Contract_Start_Date,Contract_End_Date,Auto_Renewal_Status,Contract_Status,District_ID,District_Name,BOCES_Region
+CT-88000369,CrowdStrike,Security,2026-04-06,2029-04-02,No,Active,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+CT-88000370,Lenovo,Endpoint,2026-04-22,2030-04-02,No,Active,2119,Capital_CSD_2119,Capital Region BOCES
+CT-88000371,Microsoft,Productivity,2026-04-04,2030-03-24,No,Active,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+CT-88000372,HPE,Infrastructure,2026-04-25,2029-04-09,No,Active,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+CT-88000373,Lenovo,Endpoint,2026-04-11,2028-03-22,Yes,Active,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+CT-88000374,Jamf,MDM,2026-04-24,2031-04-12,Yes,Active,2117,Capital_CSD_2117,Capital Region BOCES
+CT-88000375,HP,Endpoint,2026-04-07,2027-03-30,Yes,Active,2114,Questar_CSD_2114,Questar III BOCES

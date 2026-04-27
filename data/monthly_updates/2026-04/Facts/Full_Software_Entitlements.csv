@@ -1,0 +1,41 @@
+License_ID,Item_Class,Item_Family,Software_Name,Manufacturer,License_Type,SKU,Term_Months,Subscription_Start_Date,Subscription_End_Date,Auto_Renewal_Status,License_Status,Quantity_Purchased,Unit_Cost,Total_Cost,Department_Owner,District_ID,District_Name,BOCES_Region
+60000316,License,Infrastructure,Veeam Backup & Replication,Veeam,User-based,VEEAM-VUL,36,2026-04-25,2029-04-25,Yes,Active,1,1.00,1.00,District IT,2130,Erie_CSD_2130,Erie 1 BOCES
+60000317,License,Productivity,Microsoft 365 A3,Microsoft,Device-based,M365-A3,12,2026-04-25,2027-04-25,No,Active,1342,1.00,1342.00,District IT,2130,Erie_CSD_2130,Erie 1 BOCES
+60000318,License,Networking,Cisco Meraki License (AP),Cisco,User-based,MR-ENT,36,2026-04-04,2029-04-04,No,Active,141,1.00,141.00,School IT,2118,Capital_CSD_2118,Capital Region BOCES
+60000319,License,Networking,Cisco Meraki License (AP),Cisco,User-based,MR-ENT,36,2026-04-04,2029-04-04,Yes,Active,136,1.02,138.69,District IT,2118,Capital_CSD_2118,Capital Region BOCES
+60000320,License,Networking,Cisco Meraki License (AP),Cisco,User-based,MR-ENT,36,2026-04-19,2029-04-19,Yes,Active,156,1.02,159.63,IT / Security,2114,Questar_CSD_2114,Questar III BOCES
+60000321,License,Infrastructure,Veeam Backup & Replication,Veeam,Device-based,VEEAM-VUL,36,2026-04-19,2029-04-19,No,Active,1,1.03,1.03,School IT,2114,Questar_CSD_2114,Questar III BOCES
+60000322,License,Telephony,VoIP SIP Trunk,Bandwidth,Device-based,SIP-TRUNK,12,2026-04-13,2027-04-13,Yes,Active,1,1.00,1.00,School IT,2102,Southern_CSD_2102,Southern Westchester BOCES
+60000323,License,Networking,Cisco Meraki License (AP),Cisco,User-based,MR-ENT,36,2026-04-14,2029-04-14,No,Active,120,1.01,121.05,District IT,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+60000324,License,MDM,Jamf School,Jamf,Device-based,JAMF-SCH,12,2026-04-10,2027-04-10,No,Active,359,1.00,359.00,IT / Security,2101,Southern_CSD_2101,Southern Westchester BOCES
+60000325,License,MDM,Jamf School,Jamf,Device-based,JAMF-SCH,12,2026-04-26,2027-04-26,Yes,Active,157,1.00,157.00,School IT,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+60000326,License,Infrastructure,Veeam Backup & Replication,Veeam,Device-based,VEEAM-VUL,36,2026-04-30,2029-04-30,No,Active,1,1.00,1.00,District IT,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+60000327,License,Productivity,Microsoft 365 A3,Microsoft,Device-based,M365-A3,12,2026-04-30,2027-04-30,No,Active,2039,1.02,2084.97,IT / Security,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+60000328,License,MDM,Jamf School,Jamf,Device-based,JAMF-SCH,12,2026-04-30,2027-04-30,No,Active,275,1.01,277.62,IT / Security,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+60000329,License,Security,CrowdStrike Falcon,CrowdStrike,User-based,CS-FALCON,12,2026-04-08,2027-04-08,No,Active,1257,1.02,1282.53,District IT,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+60000330,License,Telephony,VoIP SIP Trunk,Bandwidth,Site-based,SIP-TRUNK,12,2026-04-08,2027-04-08,No,Active,1,1.05,1.05,School IT,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+60000331,License,Infrastructure,Veeam Backup & Replication,Veeam,Site-based,VEEAM-VUL,36,2026-04-08,2029-04-08,Yes,Active,1,1.00,1.00,IT / Security,2123,JeffersonLewis_CSD_2123,Jefferson-Lewis BOCES
+60000332,License,Infrastructure,Veeam Backup & Replication,Veeam,User-based,VEEAM-VUL,36,2026-04-14,2029-04-14,No,Active,1,1.00,1.00,IT / Security,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+60000333,License,Security,CrowdStrike Falcon,CrowdStrike,Device-based,CS-FALCON,12,2026-04-14,2027-04-14,No,Active,728,1.01,732.50,District IT,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+60000334,License,Infrastructure,Veeam Backup & Replication,Veeam,Device-based,VEEAM-VUL,36,2026-04-14,2029-04-14,No,Active,1,1.02,1.02,District IT,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+60000335,License,Telephony,VoIP SIP Trunk,Bandwidth,Site-based,SIP-TRUNK,12,2026-04-04,2027-04-04,Yes,Active,1,1.00,1.00,School IT,2103,Southern_CSD_2103,Southern Westchester BOCES
+60000336,License,MDM,Jamf School,Jamf,Site-based,JAMF-SCH,12,2026-04-14,2027-04-14,No,Active,210,1.00,210.00,IT / Security,2115,Questar_CSD_2115,Questar III BOCES
+60000337,License,MDM,Jamf School,Jamf,Site-based,JAMF-SCH,12,2026-04-18,2027-04-18,Yes,Active,282,1.04,292.97,IT / Security,2120,Capital_CSD_2120,Capital Region BOCES
+60000338,License,Productivity,Microsoft 365 A3,Microsoft,Device-based,M365-A3,12,2026-04-17,2027-04-17,Yes,Active,1848,1.00,1848.00,District IT,2118,Capital_CSD_2118,Capital Region BOCES
+60000339,License,MDM,Jamf School,Jamf,Site-based,JAMF-SCH,12,2026-04-17,2027-04-17,No,Active,165,1.01,167.24,IT / Security,2118,Capital_CSD_2118,Capital Region BOCES
+60000340,License,MDM,Jamf School,Jamf,Device-based,JAMF-SCH,12,2026-04-15,2027-04-15,No,Active,114,1.00,114.00,IT / Security,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+60000341,License,Networking,Cisco Meraki License (AP),Cisco,Device-based,MR-ENT,36,2026-04-22,2029-04-22,No,Active,135,1.03,139.17,District IT,2115,Questar_CSD_2115,Questar III BOCES
+60000342,License,Security,CrowdStrike Falcon,CrowdStrike,Site-based,CS-FALCON,12,2026-04-18,2027-04-18,No,Active,799,1.04,827.86,District IT,2105,Lower_CSD_2105,Lower Hudson Valley BOCES
+60000343,License,MDM,Jamf School,Jamf,User-based,JAMF-SCH,12,2026-04-24,2027-04-24,No,Active,166,1.04,173.03,District IT,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+60000344,License,Security,CrowdStrike Falcon,CrowdStrike,Device-based,CS-FALCON,12,2026-04-24,2027-04-24,Yes,Active,784,1.02,797.87,IT / Security,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+60000345,License,Telephony,VoIP SIP Trunk,Bandwidth,Site-based,SIP-TRUNK,12,2026-04-12,2027-04-12,Yes,Active,1,1.05,1.05,District IT,2117,Capital_CSD_2117,Capital Region BOCES
+60000346,License,Security,CrowdStrike Falcon,CrowdStrike,Site-based,CS-FALCON,12,2026-04-12,2027-04-12,Yes,Active,1549,1.01,1561.84,IT / Security,2117,Capital_CSD_2117,Capital Region BOCES
+60000347,License,Networking,Cisco Meraki License (AP),Cisco,Device-based,MR-ENT,36,2026-04-18,2029-04-18,Yes,Active,102,1.00,102.39,District IT,2132,Erie_CSD_2132,Erie 1 BOCES
+60000348,License,Infrastructure,Veeam Backup & Replication,Veeam,Device-based,VEEAM-VUL,36,2026-04-18,2029-04-18,No,Active,1,1.05,1.05,District IT,2132,Erie_CSD_2132,Erie 1 BOCES
+60000349,License,MDM,Jamf School,Jamf,Site-based,JAMF-SCH,12,2026-04-30,2027-04-30,Yes,Active,255,1.02,260.55,School IT,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+60000350,License,Telephony,VoIP SIP Trunk,Bandwidth,User-based,SIP-TRUNK,12,2026-04-30,2027-04-30,No,Active,1,1.00,1.00,District IT,2124,JeffersonLewis_CSD_2124,Jefferson-Lewis BOCES
+60000351,License,Telephony,VoIP SIP Trunk,Bandwidth,Site-based,SIP-TRUNK,12,2026-04-16,2027-04-16,No,Active,1,1.04,1.04,District IT,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+60000352,License,Infrastructure,Veeam Backup & Replication,Veeam,Device-based,VEEAM-VUL,36,2026-04-27,2029-04-27,No,Active,1,1.03,1.03,District IT,2101,Southern_CSD_2101,Southern Westchester BOCES
+60000353,License,Networking,Cisco Meraki License (AP),Cisco,Site-based,MR-ENT,36,2026-04-27,2029-04-27,No,Active,294,1.04,304.47,IT / Security,2101,Southern_CSD_2101,Southern Westchester BOCES
+60000354,License,Productivity,Microsoft 365 A3,Microsoft,Device-based,M365-A3,12,2026-04-27,2027-04-27,Yes,Active,2096,1.00,2096.00,IT / Security,2101,Southern_CSD_2101,Southern Westchester BOCES
+60000355,License,MDM,Jamf School,Jamf,User-based,JAMF-SCH,12,2026-04-09,2027-04-09,No,Active,96,1.01,96.61,School IT,2128,St._CSD_2128,St. Lawrence-Lewis BOCES

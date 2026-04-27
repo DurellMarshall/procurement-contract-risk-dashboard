@@ -1,0 +1,8 @@
+Contract_ID,Vendor,Contract_Category,Contract_Start_Date,Contract_End_Date,Auto_Renewal_Status,Contract_Status,District_ID,District_Name,BOCES_Region
+CT-88000362,Bandwidth,Telephony,2026-03-19,2030-03-18,No,Active,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+CT-88000363,Dell,Endpoint,2026-03-19,2029-03-06,No,Active,2119,Capital_CSD_2119,Capital Region BOCES
+CT-88000364,Microsoft,Productivity,2026-03-03,2029-02-24,No,Active,2113,Questar_CSD_2113,Questar III BOCES
+CT-88000365,Microsoft,Productivity,2026-03-12,2030-03-03,No,Active,2128,St._CSD_2128,St. Lawrence-Lewis BOCES
+CT-88000366,Cisco,Networking,2026-03-02,2029-02-16,No,Active,2115,Questar_CSD_2115,Questar III BOCES
+CT-88000367,Jamf,MDM,2026-03-09,2030-02-27,Yes,Active,2102,Southern_CSD_2102,Southern Westchester BOCES
+CT-88000368,Lenovo,Endpoint,2026-03-21,2031-03-21,Yes,Active,2107,Lower_CSD_2107,Lower Hudson Valley BOCES

@@ -1,0 +1,33 @@
+PO_ID,PO_Number,PO_Date,Vendor_Name,Funding_Source,District_ID,District_Name,BOCES_Region
+91000705,PO-276001,2026-03-12,CDW-G,E-Rate,2119,Capital_CSD_2119,Capital Region BOCES
+91000706,PO-839235,2026-03-14,Connection,General Fund,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000707,PO-800407,2026-03-14,Ingram Micro,General Fund,2129,Erie_CSD_2129,Erie 1 BOCES
+91000708,PO-348677,2026-03-11,Apple Education,E-Rate,2121,JeffersonLewis_CSD_2121,Jefferson-Lewis BOCES
+91000709,PO-978118,2026-03-03,Connection,Grant,2116,Questar_CSD_2116,Questar III BOCES
+91000710,PO-586271,2026-03-11,SHI,E-Rate,2129,Erie_CSD_2129,Erie 1 BOCES
+91000711,PO-131677,2026-03-03,CDW-G,General Fund,2115,Questar_CSD_2115,Questar III BOCES
+91000712,PO-140516,2026-03-10,SHI,E-Rate,2110,DutchessUlster_CSD_2110,Dutchess-Ulster BOCES
+91000713,PO-498549,2026-03-08,Ingram Micro,General Fund,2126,St._CSD_2126,St. Lawrence-Lewis BOCES
+91000714,PO-770321,2026-03-22,SHI,Grant,2103,Southern_CSD_2103,Southern Westchester BOCES
+91000715,PO-574679,2026-03-26,CDW-G,General Fund,2113,Questar_CSD_2113,Questar III BOCES
+91000716,PO-405254,2026-03-01,Apple Education,General Fund,2125,St._CSD_2125,St. Lawrence-Lewis BOCES
+91000717,PO-253541,2026-03-21,CDW-G,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000718,PO-586090,2026-03-15,CDW-G,Federal Program,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000719,PO-215538,2026-03-29,SHI,General Fund,2117,Capital_CSD_2117,Capital Region BOCES
+91000720,PO-870580,2026-03-28,Ingram Micro,General Fund,2116,Questar_CSD_2116,Questar III BOCES
+91000721,PO-855063,2026-03-19,CDW-G,General Fund,2104,Southern_CSD_2104,Southern Westchester BOCES
+91000722,PO-675391,2026-03-02,Apple Education,Grant,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000723,PO-755515,2026-03-17,CDW-G,General Fund,2101,Southern_CSD_2101,Southern Westchester BOCES
+91000724,PO-591816,2026-03-06,Apple Education,General Fund,2122,JeffersonLewis_CSD_2122,Jefferson-Lewis BOCES
+91000725,PO-163715,2026-03-14,CDW-G,General Fund,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
+91000726,PO-870430,2026-03-10,CDW-G,General Fund,2108,Lower_CSD_2108,Lower Hudson Valley BOCES
+91000727,PO-285850,2026-03-08,Ingram Micro,E-Rate,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000728,PO-736559,2026-03-10,Ingram Micro,General Fund,2106,Lower_CSD_2106,Lower Hudson Valley BOCES
+91000729,PO-162423,2026-03-01,SHI,General Fund,2112,DutchessUlster_CSD_2112,Dutchess-Ulster BOCES
+91000730,PO-423914,2026-03-06,Ingram Micro,E-Rate,2119,Capital_CSD_2119,Capital Region BOCES
+91000731,PO-386128,2026-03-23,CDW-G,E-Rate,2127,St._CSD_2127,St. Lawrence-Lewis BOCES
+91000732,PO-617280,2026-03-25,Connection,E-Rate,2111,DutchessUlster_CSD_2111,Dutchess-Ulster BOCES
+91000733,PO-656291,2026-03-14,CDW-G,General Fund,2118,Capital_CSD_2118,Capital Region BOCES
+91000734,PO-256349,2026-03-10,SHI,Grant,2115,Questar_CSD_2115,Questar III BOCES
+91000735,PO-309256,2026-03-11,SHI,E-Rate,2109,DutchessUlster_CSD_2109,Dutchess-Ulster BOCES
+91000736,PO-473042,2026-03-03,Connection,Federal Program,2107,Lower_CSD_2107,Lower Hudson Valley BOCES
