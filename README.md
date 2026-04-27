@@ -82,11 +82,11 @@ Power BI file: [Procurement_Contract_Risk_Dashboard.pbix](Procurement_Contract_R
 
 ![Vendor Performance & Delivery KPI](images/dashboard_screenshots/vendor-performance-delivery-kpi.png)
 
-## Next Steps
+## Future Polish
 
-1. Decide whether to publish the cleaned project to GitHub or keep it as a Notion/Super case study.
-2. If published, use the GitHub README as the public artifact link for the PBIX, screenshots, source data notes, and refresh documentation.
-3. Optional later polish: improve Finance month sorting and add a Power BI Service/public dashboard link if available.
+1. Improve Finance month sorting so monthly rows display chronologically.
+2. Add a Power BI Service/public dashboard link if available.
+3. Add a short walkthrough video or GIF if a recruiter-facing demo asset is needed.
 
 ## Source Data Note
 
