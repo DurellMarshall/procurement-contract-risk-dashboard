@@ -4,15 +4,15 @@
 
 The PBIX has been recovered and copied into the project folder:
 
-`D:\Documents\Portfolio\procurement-contract-risk-dashboard\Procurement_Contract_Risk_Dashboard.pbix`
+`Procurement_Contract_Risk_Dashboard.pbix`
 
 The original CSV source folder was identified from Power BI data source settings:
 
-`C:\Users\durel\Downloads\BOCES_PowerBI_Data`
+Original local Downloads source folder
 
 The source CSVs have been copied into the project folder:
 
-`D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\raw`
+`data/raw`
 
 The PBIX contains an embedded Power BI data model, so the report can open and show data. The next refresh step is to point Power BI to the copied local portfolio files instead of the Downloads folder.
 
@@ -41,7 +41,7 @@ Excel.Workbook(File.Contents("C:\path\file.xlsx"))
 5. Record the file paths and table names.
 6. If the original source files still exist, copy them to:
 
-`D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\raw`
+`data/raw`
 
 ## If The Original Files Are Gone
 

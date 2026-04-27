@@ -5,7 +5,7 @@ Power BI portfolio project focused on procurement, contract risk, software licen
 ## Current Status
 
 - Power BI file recovered and staged: `Procurement_Contract_Risk_Dashboard.pbix`
-- Source CSV files recovered from `C:\Users\durel\Downloads\BOCES_PowerBI_Data` and copied into `data/raw`.
+- Source CSV files recovered from the original Power BI source references and copied into `data/raw`.
 - Monthly refresh generator created in `scripts/generate_monthly_refresh.py`.
 - January through April 2026 update packages generated in `data/monthly_updates`.
 - Refresh-ready current dataset generated in `data/current`.

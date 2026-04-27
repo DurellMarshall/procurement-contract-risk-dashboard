@@ -4,9 +4,9 @@
 
 Refresh Project 2 from the static April 2026 close files.
 
-Use this folder as the Power BI source root:
+Use this folder as the Power BI source root after cloning or downloading the repo:
 
-`D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current`
+`data/current`
 
 ## Why The Date Slicer May Show 2028
 
@@ -35,18 +35,18 @@ In Power Query Editor:
 
 | Query | New Source File |
 | --- | --- |
-| `Full_Contracts` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Facts\Full_Contracts.csv` |
-| `Full_Purchases_Lines` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Facts\Full_Purchases_Lines.csv` |
-| `Full_Purchases_Header` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Facts\Full_Purchases_Header.csv` |
-| `Full_License_Assignments` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Facts\Full_License_Assignments.csv` |
-| `Full_Software_Entitlements` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Facts\Full_Software_Entitlements.csv` |
-| `Full_Hardware_Assets` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Facts\Full_Hardware_Assets.csv` |
-| `Full_Date_Dimension_2021_2026` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Dimensions\Full_Date_Dimension_2021_2026.csv` |
-| `Full_Users` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Dimensions\Full_Users.csv` |
-| `Full_Classrooms` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Dimensions\Full_Classrooms.csv` |
-| `Full_Schools` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Dimensions\Full_Schools.csv` |
-| `Full_Districts` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Dimensions\Full_Districts.csv` |
-| `Dim_Date` | `D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current\Dimensions\Dim_Date.csv` |
+| `Full_Contracts` | `data/current/Facts/Full_Contracts.csv` |
+| `Full_Purchases_Lines` | `data/current/Facts/Full_Purchases_Lines.csv` |
+| `Full_Purchases_Header` | `data/current/Facts/Full_Purchases_Header.csv` |
+| `Full_License_Assignments` | `data/current/Facts/Full_License_Assignments.csv` |
+| `Full_Software_Entitlements` | `data/current/Facts/Full_Software_Entitlements.csv` |
+| `Full_Hardware_Assets` | `data/current/Facts/Full_Hardware_Assets.csv` |
+| `Full_Date_Dimension_2021_2026` | `data/current/Dimensions/Full_Date_Dimension_2021_2026.csv` |
+| `Full_Users` | `data/current/Dimensions/Full_Users.csv` |
+| `Full_Classrooms` | `data/current/Dimensions/Full_Classrooms.csv` |
+| `Full_Schools` | `data/current/Dimensions/Full_Schools.csv` |
+| `Full_Districts` | `data/current/Dimensions/Full_Districts.csv` |
+| `Dim_Date` | `data/current/Dimensions/Dim_Date.csv` |
 
 ## If `Dim_Date` Does Not Have A Source Gear
 
@@ -81,4 +81,3 @@ in
 ## KPI Page Note
 
 The Vendor KPI page currently appears less formatted than the other pages. That is a visual design cleanup, not a data refresh blocker. Reformat it after the data refresh is stable.
-

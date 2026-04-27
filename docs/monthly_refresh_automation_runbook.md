@@ -19,7 +19,7 @@ For the current portfolio launch, this is the recommended path. Treat April 2026
 Run this from PowerShell:
 
 ```powershell
-cd "D:\Documents\Portfolio\procurement-contract-risk-dashboard"
+cd "<path-to-repo>\procurement-contract-risk-dashboard"
 .\scripts\run_monthly_refresh.ps1 -StartMonth "2026-01" -EndMonth "2026-04"
 ```
 
@@ -30,7 +30,7 @@ This is optional. Do not turn this on until the static April 2026 version is ref
 On the 1st of each month, generate the previous month's close:
 
 ```powershell
-cd "D:\Documents\Portfolio\procurement-contract-risk-dashboard"
+cd "<path-to-repo>\procurement-contract-risk-dashboard"
 .\scripts\run_monthly_refresh.ps1 -PreviousMonthOnly
 ```
 
@@ -49,7 +49,7 @@ Point Power BI to the `data/current` files instead of the old Downloads folder.
 
 Recommended target folder:
 
-`D:\Documents\Portfolio\procurement-contract-risk-dashboard\data\current`
+`data/current`
 
 That gives the dashboard a stable source location even as the monthly generator updates the files.
 
@@ -60,7 +60,7 @@ This should only be registered after the manual refresh path works.
 Helper script:
 
 ```powershell
-cd "D:\Documents\Portfolio\procurement-contract-risk-dashboard"
+cd "<path-to-repo>\procurement-contract-risk-dashboard"
 .\scripts\register_monthly_refresh_task.ps1
 ```
 
@@ -72,7 +72,7 @@ Suggested task behavior:
 - Script:
 
 ```powershell
-powershell.exe -ExecutionPolicy Bypass -File "D:\Documents\Portfolio\procurement-contract-risk-dashboard\scripts\run_monthly_refresh.ps1" -PreviousMonthOnly
+powershell.exe -ExecutionPolicy Bypass -File "<path-to-repo>\procurement-contract-risk-dashboard\scripts\run_monthly_refresh.ps1" -PreviousMonthOnly
 ```
 
 ## Super / Notion Publishing
