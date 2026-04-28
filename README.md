@@ -64,6 +64,8 @@ See:
 
 ## Dashboard Screenshots
 
+Interactive Power BI report: [Open report](https://app.powerbi.com/view?r=eyJrIjoiMjNmMzZlMzItMWRhOS00ZThmLThjMzktN2Y5MjM4NzI2N2IxIiwidCI6ImQwMzUxZTBkLWI1MjYtNDczMy1hNmUzLWU2M2I3OTU4NzAzNCJ9)
+
 Power BI file: [Procurement_Contract_Risk_Dashboard.pbix](Procurement_Contract_Risk_Dashboard.pbix)
 
 ### Finance Overview
